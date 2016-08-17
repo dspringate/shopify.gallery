@@ -11,7 +11,7 @@ collections:
 email: submit@shopify.gallery
 author: Hatch Inc.
 description: An ever-growing collection of inspiring e-commerce stores built on Shopify.
-baseurl: ''
+baseurl: 
 url: http://shopify.gallery
 date_format: "%d-%m-%y"
 google_verification: 
