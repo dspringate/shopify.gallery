@@ -1,0 +1,9 @@
+---
+title: Obey
+date: 2016-08-17 15:21:00 Z
+image: 
+store-link: http://obeyclothing.com
+credit: Fuzzco
+credit-link: http://fuzzco.com
+---
+
