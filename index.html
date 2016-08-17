@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div id="header-intro" class="grid">
+  <div class="grid__item one-whole medium--one-half push--medium--one-half large--one-third push--large--one-third">
+    <h2>An ever-growing collection of inspiring stores built on Shopify.</h2>
+    <p><a class="scroll" href="#more-info"><span class="underline">Learn more</span>&nbsp; &#8594;</a></p>
+  </div>
+</div>
+
+{% assign posts_count = (paginator.posts | size) %}
+
+<div class="home">
+  {% if posts_count > 0 %}
+    <div class="grid-uniform posts">
+      {% for post in paginator.posts %}
+      {% assign mod = forloop.index | modulo: 12 %}
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post {% if mod == 0 %} even{% else %} odd{% endif %}">
+          <a href="{{ post.store-link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
+          <h1 class="post-title">
+            <a href="{{ post.store-link }}" target="_blank" class="post-link">{{ post.title }}</a>
+            <span class="post-meta">{{ post.date | date: site.date_format }}</span>
+          </h1>
+          
+          <!--<p class="link-to-store"><a href="{{ post.store-link }}" target="_blank">&#8618;</a></p>-->
+
+          {% if post.credit %}
+            <p>Credit: <a href="{{ post.credit-link }}" target="_blank">{{ post.credit }}</a></p>
+          {% else %}
+            <div class="filler"></div>
+          {% endif %}
+          
+        </div>
+      {% endfor %}
+    </div>
+
+    {% include pagination.html %}
+  {% else %}
+    <h1 class='center'>{{ site.text.index.coming_soon }}</h3>
+  {% endif %}
+</div>

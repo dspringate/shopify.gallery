@@ -1,0 +1,44 @@
+.pagination {
+  font-size: 14px;
+  font-family: 'acumin-pro', 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 400;
+  text-align: right;
+  padding: 20px 40px; 
+}
+
+.pagination a, .pagination .disabled {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  color: #a6a5a5;
+  padding: 0 10px;
+}
+
+.pagination .disabled {
+  opacity: 0.5;
+}
+
+.pagination a:hover, .pagination a:focus {
+  color: darken(#a6a5a5, 40%);
+}
+
+.pagination a:active {
+  /*background: #f7f7f7;*/
+}
+
+.pagination .button {
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.button-disabled {
+  opacity: 0.55;
+  background-color: #999;
+}
+
+.button-disabled:hover,
+.button-disabled:active,
+.button-disabled:focus {
+  cursor: not-allowed;
+  background-color: #999;
+}

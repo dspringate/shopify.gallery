@@ -1,0 +1,89 @@
+
+.posts {
+  margin: 0;
+  border-top: 1px solid #eeeeee;
+  /*border-bottom: 1px solid #eeeeee;*/
+}
+
+.posts .post {
+  padding: 40px;
+  border-bottom: 1px solid #eeeeee;
+  border-right: 1px solid #eeeeee;
+
+  h1.post-title {
+    padding-top: 20px;
+  }
+
+  p {
+    padding-top: 20px;
+    margin-bottom: 0;
+  }
+}
+
+/*.posts {
+  .even  {
+    &:nth-last-child(-n+3) {
+      border-bottom: 0;
+    }
+  }
+
+  .odd {
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+}*/
+
+.filler {
+  margin-bottom: 48px;
+
+  @include at-query($max, $preMediumSmall) {
+    margin-bottom: 0;
+  }
+}
+
+/*.posts .post:last-child {
+  border-bottom: none;
+  margin-bottom: .375em;
+  padding-bottom: 0;
+}*/
+
+.post-link .post-title {
+  margin-top: 0;
+}
+
+a.post-link {
+  padding-bottom: 2px;
+  border-bottom: 3px solid #363636;
+  color: #363636;
+  text-decoration: none !important;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.post-footer {
+  @extend .italic;
+
+  margin-top: .75rem;
+  text-align: center;
+}
+
+.post-footer .avatar {
+  margin: 2rem 0;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.meta,
+.post-meta {
+  width: auto;
+  margin: 0;
+  padding: 2px 0 0 0;
+  color: #b2b1b1;
+  display: block;
+}
+
+.related-post-title {
+  border-bottom: thin solid #f3f3f3;
+}

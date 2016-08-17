@@ -1,0 +1,10 @@
+---
+title: Test Post 2
+date: 2016-08-10 14:50:00 Z
+image: "/uploads/image-1-de545f.jpg"
+store-link: www.hatchinc.co
+credit: Hatch Inc
+credit-link: www.hatchinc.co
+---
+
+Hello
