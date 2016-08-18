@@ -1,7 +1,7 @@
 ---
 title: Editions
 date: 2016-08-18 08:02:00 Z
-image: 
+image: "/uploads/133%20-%20editionspublishing@2x.jpg"
 store-link: https://editions-publishing.com
 credit: Zé Studio
 credit-link: http://ze-studio.com
