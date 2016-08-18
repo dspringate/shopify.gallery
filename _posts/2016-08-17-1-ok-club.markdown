@@ -1,7 +1,7 @@
 ---
 title: 1 OK Club
 date: 2016-08-17 13:55:00 Z
-image: 
+image: "/uploads/39%20-%201okclub@2x.jpg"
 store-link: http://1-ok.myshopify.com
 credit: Kyle Mac
 credit-link: http://www.mrkylemac.com
