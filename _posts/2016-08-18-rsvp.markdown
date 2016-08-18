@@ -1,7 +1,7 @@
 ---
 title: RSVP
 date: 2016-08-18 07:33:00 Z
-image: 
+image: "/uploads/115%20-%20rsvpparis@2x.jpg"
 store-link: http://rsvp-paris.com
 credit: Microburo
 credit-link: http://www.microburo.com
