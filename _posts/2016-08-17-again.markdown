@@ -1,7 +1,7 @@
 ---
 title: Again
 date: 2016-08-17 13:40:00 Z
-image: 
+image: "/uploads/32%20-%20againcollection@2x.jpg"
 store-link: http://againcollection.com
 credit: Q&A Creative
 credit-link: http://qnacreative.com
