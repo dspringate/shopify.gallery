@@ -1,7 +1,7 @@
 ---
 title: Zulu & Zephyr
 date: 2016-08-17 13:21:00 Z
-image: 
+image: "/uploads/20%20-%20zulu&zepher@2x.jpg"
 store-link: http://zuluandzephyr.com
 ---
 
