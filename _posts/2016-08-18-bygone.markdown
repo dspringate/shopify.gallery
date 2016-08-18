@@ -1,0 +1,9 @@
+---
+title: Bygone
+date: 2016-08-18 07:50:00 Z
+image: 
+store-link: https://bygonestore.com
+credit: Hatch Inc.
+credit-link: http://www.hatchinc.co
+---
+
