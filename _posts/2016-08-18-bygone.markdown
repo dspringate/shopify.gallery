@@ -1,7 +1,7 @@
 ---
 title: Bygone
 date: 2016-08-18 07:50:00 Z
-image: 
+image: "/uploads/127%20-%20bygonestore@2x.jpg"
 store-link: https://bygonestore.com
 credit: Hatch Inc.
 credit-link: http://www.hatchinc.co
