@@ -1,0 +1,9 @@
+---
+title: Editions
+date: 2016-08-18 08:02:00 Z
+image: 
+store-link: https://editions-publishing.com
+credit: Zé Studio
+credit-link: http://ze-studio.com
+---
+
