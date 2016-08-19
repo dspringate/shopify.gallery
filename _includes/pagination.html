@@ -47,7 +47,7 @@
 
   <!-- Previous page -->
   {% if paginator.previous_page %}
-    <a href="{{ site.baseurl }}/{{ paginator.previous_page_path }}" class="previous-page"></a>
+    <a href="/page{{paginator.previous_page}}" class="previous-page"></a>
   {% else %}
     <span class="previous-page" style="display:none;"></span>
   {% endif %}
@@ -77,7 +77,7 @@
 
   <!-- Next page -->
   {% if paginator.next_page %}
-    <a href="{{ site.baseurl }}/{{ paginator.next_page_path }}" class="next-page"></a>
+    <a href="/page{{paginator.next_page}}" class="next-page"></a>
   {% else %}
     <span class="next-page" style="display:none;"></span>
   {% endif %}
