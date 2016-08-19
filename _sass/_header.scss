@@ -86,6 +86,10 @@
   @include at-query($max, $medium) {
     float: left !important;
   }
+
+  @include at-query($max, $small) {
+    font-size: 17px;
+  }
 }
 
 .site-nav {
