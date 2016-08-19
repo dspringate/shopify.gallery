@@ -59,10 +59,6 @@
     content: '...';
 }
 
-.paginator-links .seperator::before {
-    content: ',';
-}
-
 .paginator-links .first-page::before {
     content: 'First';
 }

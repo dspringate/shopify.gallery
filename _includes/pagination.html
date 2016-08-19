@@ -38,18 +38,18 @@
     {% endif %}
   {% endif %}
 
-  <!-- First page -->
+  <!-- First page 
   {% if paginator.previous_page %}
     <a href="{{ site.baseurl }}/" class="first-page"></a>
   {% else %}
     <span class="first-page"></span>
-  {% endif %}
+  {% endif %}-->
 
   <!-- Previous page -->
   {% if paginator.previous_page %}
     <a href="{{ site.baseurl }}/{{ paginator.previous_page_path }}" class="previous-page"></a>
   {% else %}
-    <span class="previous-page"></span>
+    <span class="previous-page" style="display:none;"></span>
   {% endif %}
 
   <!-- Start ellipsis -->
@@ -67,9 +67,6 @@
     {% else %}
       <a class="number" href="{{ site.baseurl }}/page{{ num }}">{{ num }}</a>
     {% endif %}
-    {% unless forloop.last %}
-      <span class="seperator"></span>
-    {% endunless %}
   {% endfor %}
   </span>
 
@@ -82,13 +79,13 @@
   {% if paginator.next_page %}
     <a href="{{ site.baseurl }}/{{ paginator.next_page_path }}" class="next-page"></a>
   {% else %}
-    <span class="next-page"></span>
+    <span class="next-page" style="display:none;"></span>
   {% endif %}
 
-  <!-- Last page -->
+  <!-- Last page
   {% if paginator.next_page %}
     <a href="{{ site.baseurl }}/page{{ paginator.total_pages }}" class="last-page"></a>
   {% else %}
     <span class="last-page"></span>
-  {% endif %}
+  {% endif %}-->
 </div>
