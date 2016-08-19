@@ -68,11 +68,11 @@
 }
 
 .paginator-links .previous-page::before {
-    content: 'Previous';
+    content: '\2190';
 }
 
 .paginator-links .next-page::before {
-    content: 'Next';
+    content: '\2192';
 }
 
 .paginator-links .last-page::before {
