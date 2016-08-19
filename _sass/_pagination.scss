@@ -118,7 +118,8 @@
     padding: 0 10px;
 }
 
-.paginator-links .number:hover {
+.paginator-links .number:hover,
+.paginator-links a:hover {
     color: darken(#a6a5a5, 40%);
 }
 
