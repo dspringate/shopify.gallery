@@ -36,7 +36,7 @@ layout: default
       {% endfor %}
     </div>
 
-    {% include pagination.html %}
+    {% include pagination.html maxPages=5 %}
   {% else %}
     <h1 class='center'>{{ site.text.index.coming_soon }}</h3>
   {% endif %}

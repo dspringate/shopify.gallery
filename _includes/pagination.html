@@ -1,59 +1,94 @@
-{% if paginator.total_pages > 1 %}
-<div class="pagination text-align">
-    <div class="btn-group">
+<!-- Paginator Links -->
+<div class="paginator-links">
+  {% if include.maxPages %}
+    {% assign maxPages = include.maxPages %}
+  {% else %}
+    <!-- maxPages attribute not passed in Liquid template, defaulting to 5 -->
+    {% assign maxPages = 5 %}
+  {% endif %}
 
-        {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <a href="/" class="btn btn-outline">&#8592;</a>
-        {% else %}
-        <a href="/page{{paginator.previous_page}}" class="btn btn-outline">&#8592;</a>
-        {% endif %}
-        {% else %}
-        <button disabled="disabled" href="javascript:;" class="btn btn-outline" style="display:none;">&#8592;</button>
-        {% endif %}
+  {% assign halfPages = maxPages | divided_by: 2 %}
+  {% assign right-margin = paginator.total_pages | minus: paginator.page %}
+  {% if paginator.page <= halfPages %}
+    <!-- left-align -->
+    {% assign start = 1 %}
+    {% if paginator.total_pages > maxPages %}
+        {% assign end = maxPages %}
+    {% else %}
+        {% assign end = paginator.total_pages %}
+    {% endif %}
+  {% elsif right-margin <= halfPages %}
+    <!-- right-align -->
+    {% assign start = paginator.total_pages | minus: maxPages | plus: 1 | append: ',' | append: 1 | split: ',' | sort | last | plus: 0 %}
+    {% assign end = paginator.total_pages %}
+  {% else %}
+    <!-- center-align -->
+    {% assign position-less-half = paginator.page | minus: halfPages %}
+    {% if position-less-half < 1 %}
+        {% assign start = 1 %}
+    {% else %}
+        {% assign start = position-less-half %}
+    {% endif %}
 
-        {% if paginator.page == 1 %}
-        <a href="javascript:;" class="active btn btn-outline">1</a>
-        {% else %}
-        <a href="/" class="btn btn-outline">1</a>
-        {% endif %}
+    {% assign position-plus-half = paginator.page | plus: halfPages %}
+    {% if position-plus-half > paginator.total_pages %}
+        {% assign end = paginator.total_pages %}
+    {% else %}
+        {% assign end = position-plus-half %}
+    {% endif %}
+  {% endif %}
 
-        {% for count in (2..paginator.total_pages) %}
-        {% if count == paginator.page %}
-        <a href="javascript:;" class="active btn btn-outline">{{count}}</a>
-        {% else %}
-        <a href="/page{{count}}" class="btn btn-outline">{{count}}</a>
-        {% endif %}
-        {% endfor %}
+  <!-- First page -->
+  {% if paginator.previous_page %}
+    <a href="{{ site.baseurl }}/" class="first-page"></a>
+  {% else %}
+    <span class="first-page"></span>
+  {% endif %}
 
-        {% if paginator.next_page %}
-        <a href="/page{{paginator.next_page}}" class="btn btn-outline">&#8594;</a>
-        {% else %}
-        <button disabled="disabled" href="javascript:;" class="btn btn-outline" style="display:none;">&#8594;</button>
-        {% endif %}
+  <!-- Previous page -->
+  {% if paginator.previous_page %}
+    <a href="{{ site.baseurl }}/{{ paginator.previous_page_path }}" class="previous-page"></a>
+  {% else %}
+    <span class="previous-page"></span>
+  {% endif %}
 
-    </div>
+  <!-- Start ellipsis -->
+  {% if start > 1 %}
+    <span class="start-ellipsis"></span>
+  {% endif %}
+
+    <!-- Page numbers -->
+    <span class="numbers">
+  {% for num  in (start..end)%}
+    {% if num == paginator.page %}
+      <span class="number current">{{ num }}</span>
+    {% elsif num == 1 %}
+      <a class="number" href="{{ site.baseurl }}/">{{ num }}</a>
+    {% else %}
+      <a class="number" href="{{ site.baseurl }}/page{{ num }}">{{ num }}</a>
+    {% endif %}
+    {% unless forloop.last %}
+      <span class="seperator"></span>
+    {% endunless %}
+  {% endfor %}
+  </span>
+
+  <!-- End ellipsis -->
+  {% if end < paginator.total_pages %}
+    <span class="end-ellipsis"></span>
+  {% endif %}
+
+  <!-- Next page -->
+  {% if paginator.next_page %}
+    <a href="{{ site.baseurl }}/{{ paginator.next_page_path }}" class="next-page"></a>
+  {% else %}
+    <span class="next-page"></span>
+  {% endif %}
+
+  <!-- Last page -->
+  {% if paginator.next_page %}
+    <a href="{{ site.baseurl }}/page{{ paginator.total_pages }}" class="last-page"></a>
+  {% else %}
+    <span class="last-page"></span>
+  {% endif %}
 </div>
-{% endif %}
-
-<!-- 
-<div class="pagination clearfix mb1 mt4">
-  <div class="left">
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-        <a class="pagination-item" href="{{ site.baseurl }}/">{{ site.text.pagination.newer }}</a>
-      {% else %}
-        <a class="pagination-item" href="{{ paginator.previous_page_path }}">{{ site.text.pagination.newer }}</a>
-      {% endif %}
-    {% else %}
-      <span class="pagination-item disabled">{{ site.text.pagination.newer }}</span>
-    {% endif %}
-  </div>
-  <div class="right">
-    {% if paginator.next_page %}
-      <a class="pagination-item" href="{{ paginator.next_page_path }}">{{ site.text.pagination.older }}</a>
-    {% else %}
-      <span class="pagination-item disabled">{{ site.text.pagination.older }}</span>
-    {% endif %}
-  </div>
-</div> -->
