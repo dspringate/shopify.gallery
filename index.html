@@ -26,7 +26,7 @@ layout: default
           <!--<p class="link-to-store"><a href="{{ post.store-link }}" target="_blank">&#8618;</a></p>-->
 
           {% if post.credit %}
-            <p>Credit: <a href="{{ post.credit-link }}" target="_blank">{{ post.credit }}</a>, {% if post.credit-2 %}<a href="{{ post.credit-link-2 }}" target="_blank">{{ post.credit-2 }}</a>{% endif %} 
+            <p>Credit: <a href="{{ post.credit-link }}" target="_blank">{{ post.credit }}</a>{% if post.credit-2 %}, <a href="{{ post.credit-link-2 }}" target="_blank">{{ post.credit-2 }}</a>{% endif %} 
             </p>
           {% else %}
             <div class="filler"></div>
