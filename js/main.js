@@ -83,8 +83,8 @@ site.extendHeader = function () {
     var targetOffset = $(".home").offset().top;
 
     var $w = $(window).scroll(function() {
-        if ( $w.scrollTop() > targetOffset ) {
-            $('.site-header-block').css({"height":"40px"});
+        if ( $w.scrollTop() >= targetOffset ) {
+            $('.site-header-block').css({"height":"30px"});
         } else {
             $('.site-header-block').css({"height":"0"});
         }
