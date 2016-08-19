@@ -47,7 +47,11 @@
 
   <!-- Previous page -->
   {% if paginator.previous_page %}
-    <a href="/page{{paginator.previous_page}}" class="previous-page"></a>
+    {% if paginator.previous_page == 1 %}
+      <a href="/" class="previous-page"></a>
+    {% else %}
+      <a href="/page{{paginator.previous_page}}" class="previous-page"></a>
+    {% endif %}
   {% else %}
     <span class="previous-page" style="display:none;"></span>
   {% endif %}

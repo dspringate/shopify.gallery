@@ -116,6 +116,10 @@
     padding: 0 10px;
 }
 
+.paginator-links .number:hover {
+    color: darken(#a6a5a5, 40%);
+}
+
 .paginator-links .number.current {
     color: darken(#a6a5a5, 40%);
 }
