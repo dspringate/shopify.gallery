@@ -108,7 +108,9 @@
     color: rgb(0, 255, 0);
 }*/
 
-.paginator-links .number {
+.paginator-links .number,
+.paginator-links .start-ellipsis,
+.paginator-links .end-ellipsis, {
     -webkit-transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
