@@ -89,25 +89,23 @@
 .paginator-links .next-page::before,
 .paginator-links .last-page::before,
 .paginator-links .number {
-    border-radius: 1em;
-    background-color: rgba(0, 200, 0, 0.5);
-    margin: 0.5em;
-    padding: 1em;
+    border-radius: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .paginator-links a {
     text-decoration: none;
 }
 
-.paginator-links a:link {
-    color: rgb(255, 0, 0);
-}
+/*.paginator-links a:link {
+    color: darken(#a6a5a5, 40%);
+}*/
 
-.paginator-links a:visited {
+/*.paginator-links a:visited {
     color: rgb(0, 255, 0);
-}
+}*/
 
 .paginator-links .number.current {
-    background-color: rgba(0, 220, 0, 0.7);
-    font-weight: bold;
+    color: darken(#a6a5a5, 40%);
 }
