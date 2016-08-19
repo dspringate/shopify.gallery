@@ -20,6 +20,10 @@
   }
 }
 
+.posts .post:hover {
+  opacity: 0.8;
+}
+
 /*.posts {
   .even  {
     &:nth-last-child(-n+3) {
