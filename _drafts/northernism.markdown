@@ -1,6 +1,6 @@
 ---
 title: Northernism
-date: 2016-08-18 07:49:00 Z
+date: 2016-08-19 12:06:00 Z
 image: "/uploads/126%20-%20northernism@2x.jpg"
 store-link: https://northernism.com
 credit: Hatch Inc.
