@@ -108,6 +108,14 @@
     color: rgb(0, 255, 0);
 }*/
 
+.paginator-links .number {
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    color: #a6a5a5;
+    padding: 0 10px;
+}
+
 .paginator-links .number.current {
     color: darken(#a6a5a5, 40%);
 }
