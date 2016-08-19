@@ -47,10 +47,12 @@
 /* The container */
 
 .paginator-links {
-    text-align: center;
-    padding: 2em;
+  font-size: 14px;
+  font-family: 'acumin-pro', 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 400;
+  text-align: right;
+  padding: 20px 40px;
 }
-
 
 /* Text components */
 
@@ -74,7 +76,6 @@
 .paginator-links .last-page::before {
     content: 'Last';
 }
-
 
 /* The actual buttons */
 
