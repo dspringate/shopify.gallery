@@ -59,7 +59,7 @@
 
     <!-- Page numbers -->
     <span class="numbers">
-  {% for num  in (start..end)%}
+  {% for num in (start..end)%}
     {% if num == paginator.page %}
       <span class="number current">{{ num }}</span>
     {% elsif num == 1 %}
