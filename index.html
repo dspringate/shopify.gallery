@@ -17,7 +17,7 @@ layout: default
       {% for post in paginator.posts %}
       {% assign mod = forloop.index | modulo: 12 %}
         <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post {% if mod == 0 %} even{% else %} odd{% endif %}">
-          <a href="{{ post.store-link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}"></a>
+          <a href="{{ post.store-link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}" width="600px"></a>
           <h1 class="post-title">
             <a href="{{ post.store-link }}" target="_blank" class="post-link">{{ post.title }}</a>
             <span class="post-meta">{{ post.date | date: site.date_format }}</span>
