@@ -19,7 +19,7 @@
       }
 
       searchResults.innerHTML = appendString;
-      headerSearch.innerHTML = '<div class="grid__item one-whole medium--one-half push--medium--one-half large--one-third push--large--one-third"><h2>Your search for "' + searchTerm + '" found these results...</h2></div>';
+      headerSearch.innerHTML = '<div class="grid__item one-whole medium--one-half push--medium--one-half large--one-third push--large--one-third scroll"><h2>Your search for "' + searchTerm + '" found these results...</h2></div>';
     } else {
       headerSearch.innerHTML = '<div class="grid__item one-whole medium--one-half push--medium--one-half large--one-third push--large--one-third"><h2>Damn, no results found.</h2><p class="return-link"><a href="{{ site.url }}">Return to gallery</a></p></div>';
       searchResults.innerHTML = '<div class="filler"></div>';
