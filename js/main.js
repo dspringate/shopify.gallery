@@ -80,7 +80,7 @@ site.expandSearch = function () {
 };
 
 site.extendHeader = function () {
-    var targetOffset = $(".home").offset().top;
+    var targetOffset = $(".scroll").offset().top;
 
     var $w = $(window).scroll(function() {
         if ( $w.scrollTop() >= targetOffset ) {
