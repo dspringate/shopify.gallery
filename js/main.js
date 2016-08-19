@@ -19,6 +19,7 @@ site.init = function () {
 	site.cacheSelectors();
 	site.smoothScroll();
 	site.expandSearch();
+    site.extendHeader();
 };
 
 site.smoothScroll = function () {
@@ -76,6 +77,19 @@ site.expandSearch = function () {
             $('.searchbox-icon').css('display','block');
         }
     }
+};
+
+site.extendHeader = function () {
+    var targetOffset = $(".home").offset().top;
+
+    var $w = $(window).scroll(function() {
+        if ( $w.scrollTop() > targetOffset ) {
+            $('.site-header-block').css({"height":"40px"});
+        } else {
+            $('.site-header-block').css({"height":"0"});
+        }
+
+    });
 };
 
 // Initialise Site's JS on docready
