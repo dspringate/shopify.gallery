@@ -90,7 +90,7 @@ redcarpet:
   - tables
   - with_toc_data
 permalink: pretty
-paginate: 6
+paginate: 12
 paginate_path: page:num
 sass:
   compressed: true
