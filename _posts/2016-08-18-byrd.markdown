@@ -1,7 +1,0 @@
----
-title: Byrd
-date: 2016-08-18 07:26:00 Z
-image: "/uploads/113%20-%20byrdhaircare@2x.jpg"
-store-link: http://byrdhair.com
----
-

@@ -1,22 +1,100 @@
----
-layout: 
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>shopify.gallery</title>
+    <description>An ever-growing collection of inspiring e-commerce stores built on Shopify.</description>
+    <link>http://www.shopify.gallery/</link>
+    <atom:link href="http://www.shopify.gallery/feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        <title>Crap Eyewear</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Aug 2016 12:23:00 +0000</pubDate>
+        <link>http://www.shopify.gallery/2016/08/19/crap-eyewear/</link>
+        <guid isPermaLink="true">http://www.shopify.gallery/2016/08/19/crap-eyewear/</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>John Elliott</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Aug 2016 12:22:00 +0000</pubDate>
+        <link>http://www.shopify.gallery/2016/08/19/john-elliott/</link>
+        <guid isPermaLink="true">http://www.shopify.gallery/2016/08/19/john-elliott/</guid>
+      </item>
+    
+      <item>
+        <title>LOQ</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Aug 2016 12:21:00 +0000</pubDate>
+        <link>http://www.shopify.gallery/2016/08/19/loq/</link>
+        <guid isPermaLink="true">http://www.shopify.gallery/2016/08/19/loq/</guid>
+      </item>
+    
+      <item>
+        <title>Kingsley Rowe</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Aug 2016 12:20:00 +0000</pubDate>
+        <link>http://www.shopify.gallery/2016/08/19/kingsley-rowe/</link>
+        <guid isPermaLink="true">http://www.shopify.gallery/2016/08/19/kingsley-rowe/</guid>
+      </item>
+    
+      <item>
+        <title>Qasimi</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Aug 2016 12:19:00 +0000</pubDate>
+        <link>http://www.shopify.gallery/2016/08/19/qasimi/</link>
+        <guid isPermaLink="true">http://www.shopify.gallery/2016/08/19/qasimi/</guid>
+      </item>
+    
+      <item>
+        <title>Folk</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Aug 2016 12:18:00 +0000</pubDate>
+        <link>http://www.shopify.gallery/2016/08/19/folk/</link>
+        <guid isPermaLink="true">http://www.shopify.gallery/2016/08/19/folk/</guid>
+      </item>
+    
+      <item>
+        <title>Oyyo</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Aug 2016 12:17:00 +0000</pubDate>
+        <link>http://www.shopify.gallery/2016/08/19/oyyo/</link>
+        <guid isPermaLink="true">http://www.shopify.gallery/2016/08/19/oyyo/</guid>
+      </item>
+    
+      <item>
+        <title>Horses Atelier</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Aug 2016 12:16:00 +0000</pubDate>
+        <link>http://www.shopify.gallery/2016/08/19/horses-atelier/</link>
+        <guid isPermaLink="true">http://www.shopify.gallery/2016/08/19/horses-atelier/</guid>
+      </item>
+    
+      <item>
+        <title>Beyond The Vines</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Aug 2016 12:15:00 +0000</pubDate>
+        <link>http://www.shopify.gallery/2016/08/19/beyond-the-vines/</link>
+        <guid isPermaLink="true">http://www.shopify.gallery/2016/08/19/beyond-the-vines/</guid>
+      </item>
+    
+      <item>
+        <title>Zanzan</title>
+        <description>
+</description>
+        <pubDate>Fri, 19 Aug 2016 12:14:00 +0000</pubDate>
+        <link>http://www.shopify.gallery/2016/08/19/zanzan/</link>
+        <guid isPermaLink="true">http://www.shopify.gallery/2016/08/19/zanzan/</guid>
+      </item>
+    
   </channel>
 </rss>

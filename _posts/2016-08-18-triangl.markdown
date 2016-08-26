@@ -1,7 +1,0 @@
----
-title: Triangl
-date: 2016-08-18 07:37:00 Z
-image: "/uploads/116%20-%20triangl@2x.jpg"
-store-link: http://triangl.com
----
-

@@ -1,7 +1,0 @@
----
-title: Kara
-date: 2016-08-17 15:50:00 Z
-image: "/uploads/67%20-%20karahandbags@2x.jpg"
-store-link: https://karastore.com
----
-

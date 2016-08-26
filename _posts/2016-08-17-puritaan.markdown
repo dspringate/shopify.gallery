@@ -1,9 +1,0 @@
----
-title: Puritaan
-date: 2016-08-17 15:28:00 Z
-image: "/uploads/52%20-%20puritaan@2x.jpg"
-store-link: http://www.puritaan.com
-credit: Pixelephant
-credit-link: http://www.pixelephant.hu
----
-

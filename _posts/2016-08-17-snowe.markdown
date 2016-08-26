@@ -1,7 +1,0 @@
----
-title: Snowe
-date: 2016-08-17 13:24:00 Z
-image: "/uploads/22%20-%20snowe@2x.jpg"
-store-link: http://snowehome.com
----
-

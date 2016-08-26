@@ -1,9 +1,0 @@
----
-title: Bartaile
-date: 2016-08-17 15:15:00 Z
-image: "/uploads/46%20-%20bartaile@2x.jpg"
-store-link: http://bartaile.com
-credit: Wild
-credit-link: http://wild.as
----
-

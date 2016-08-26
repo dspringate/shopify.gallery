@@ -1,43 +1,554 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>shopify.gallery</title>
+    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+    <link rel="dns-prefetch" href="//cdn.mathjax.org">
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="An ever-growing collection of inspiring e-commerce stores built on Shopify.">
+    <meta name="robots" content="all">
+    <meta name="author" content="Hatch Inc.">
+    
+    <link rel="canonical" href="http://www.shopify.gallery/">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for shopify.gallery" href="/feed.xml" />
 
-<div id="header-intro" class="grid">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/pixyll.css?201608260821" type="text/css">
+
+    <!-- Fonts -->
+    <script src="https://use.typekit.net/oae5zqz.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    
+    <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Lato:900,300' rel='stylesheet' type='text/css'>
+    
+    
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    
+
+    <!-- MathJax -->
+    
+
+    <!-- Verifications -->
+    
+    
+
+    <!-- Open Graph -->
+    <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="shopify.gallery">
+    <meta property="og:description" content="An ever-growing collection of inspiring e-commerce stores built on Shopify.">
+    <meta property="og:url" content="http://www.shopify.gallery/">
+    <meta property="og:site_name" content="shopify.gallery">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    
+        <meta name="twitter:site" content="@hatch_inc" />
+    
+    <meta name="twitter:title" content="shopify.gallery" />
+    <meta name="twitter:description" content="An ever-growing collection of inspiring e-commerce stores built on Shopify." />
+    <meta name="twitter:url" content="http://www.shopify.gallery/" />
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+
+    <!-- jQuery -->
+     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+    
+    <script type="text/javascript">
+       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+       ga('create', 'UA-57545939-5', 'auto');
+       ga('send', 'pageview');
+    </script>
+    
+</head>
+
+<body class="site">
+  
+	
+
+  <div class="site-wrap">
+    <header class="site-header px-responsive">
+  <div class="grid wrap">
+    <div class="grid__item mediumSmall-down--one-third medium--one-half one-third site-logo">
+      <a href="http://www.shopify.gallery" class="site-title">shopify.gallery</a>
+    </div>
+    
+    
+      <div class="grid__item mediumSmall-down--two-thirds medium--one-half two-thirds top-bar--links">
+        <div class="social-icons">
+  <div class="social-icons-right">
+    <div class="container">
+      <form action="/search/" method="get" class="searchbox">
+          <input type="text" placeholder="Search" id="search-box" name="query" class="searchbox-input" onkeyup="buttonUp();" required>
+          <input type="submit" class="searchbox-submit">
+          <span class="icon icon-search searchbox-icon" aria-hidden="true"></span>
+      </form>
+    </div>
+    
+    
+    
+    <!-- <a class="fa fa-rss" href="/feed.xml"></a> -->
+    
+      <span class="social-wrap"><a class="fa fa-twitter" href="http://bit.ly/2bqQ95o" target="_blank"></a></span>
+    
+    
+    
+    
+    <!-- 
+      <a class="fa fa-envelope" href="mailto:submit@shopify.gallery"></a>
+     -->
+    
+    
+    
+    <span class="social-wrap"><a class="fa fa-shopify" href="http://bit.ly/2b8EnJi" target="_blank"><img src="/images/shopify_glyph@2x.png"></a></span>
+  </div>
+  <div class="right">
+    
+    
+    
+  </div>
+</div>
+<div class="clearfix"></div>
+
+      </div>
+    
+  </div>
+  <div class="grid site-header-block"></div>
+</header>
+
+
+    <div class="post p-responsive wrap" role="main">
+      <div class="measure">
+        <div id="header-intro" class="grid">
   <div class="grid__item one-whole medium--one-half push--medium--one-half large--one-third push--large--one-third">
     <h2>An ever-growing collection of inspiring stores built on Shopify.</h2>
     <p><a class="scroll" href="#more-info"><span class="underline">Learn more</span>&nbsp; &#8594;</a></p>
   </div>
 </div>
 
-{% assign posts_count = (paginator.posts | size) %}
+
 
 <div class="home">
-  {% if posts_count > 0 %}
+  
     <div class="grid-uniform posts">
-      {% for post in paginator.posts %}
-      {% assign mod = forloop.index | modulo: 12 %}
-        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post {% if mod == 0 %} even{% else %} odd{% endif %}">
-          <a href="{{ post.store-link }}" target="_blank"><img src="{{ post.image }}" alt="{{ post.title }}" width="600px"></a>
+      
+      
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post  odd">
+          <a href="http://www.crapeyewear.com" target="_blank"><img src="/uploads/137%20-%20crapeyewear@2x.jpg" alt="Crap Eyewear" width="600px"></a>
           <h1 class="post-title">
-            <a href="{{ post.store-link }}" target="_blank" class="post-link">{{ post.title }}</a>
-            <span class="post-meta">{{ post.date | date: site.date_format }}</span>
+            <a href="http://www.crapeyewear.com" target="_blank" class="post-link">Crap Eyewear</a>
+            <span class="post-meta">19-08-16</span>
           </h1>
           
-          <!--<p class="link-to-store"><a href="{{ post.store-link }}" target="_blank">&#8618;</a></p>-->
+          <!--<p class="link-to-store"><a href="http://www.crapeyewear.com" target="_blank">&#8618;</a></p>-->
 
-          {% if post.credit %}
-            <p>Credit: <a href="{{ post.credit-link }}" target="_blank">{{ post.credit }}</a>{% if post.credit-2 %}, <a href="{{ post.credit-link-2 }}" target="_blank">{{ post.credit-2 }}</a>{% endif %}{% if post.credit-3 %}, <a href="{{ post.credit-link-3 }}" target="_blank">{{ post.credit-3 }}</a>{% endif %} 
+          
+            <p>Credit: <a href="http://www.ryanfosterdesign.com" target="_blank">Ryan Foster</a> 
             </p>
-          {% else %}
-            <div class="filler"></div>
-          {% endif %}
+          
           
         </div>
-      {% endfor %}
+      
+      
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post  odd">
+          <a href="http://www.johnelliott.co" target="_blank"><img src="/uploads/43%20-%20johnelliott@2x.jpg" alt="John Elliott" width="600px"></a>
+          <h1 class="post-title">
+            <a href="http://www.johnelliott.co" target="_blank" class="post-link">John Elliott</a>
+            <span class="post-meta">19-08-16</span>
+          </h1>
+          
+          <!--<p class="link-to-store"><a href="http://www.johnelliott.co" target="_blank">&#8618;</a></p>-->
+
+          
+            <div class="filler"></div>
+          
+          
+        </div>
+      
+      
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post  odd">
+          <a href="http://www.loq.us" target="_blank"><img src="/uploads/134%20-%20loq@2x.jpg" alt="LOQ" width="600px"></a>
+          <h1 class="post-title">
+            <a href="http://www.loq.us" target="_blank" class="post-link">LOQ</a>
+            <span class="post-meta">19-08-16</span>
+          </h1>
+          
+          <!--<p class="link-to-store"><a href="http://www.loq.us" target="_blank">&#8618;</a></p>-->
+
+          
+            <p>Credit: <a href="http://www.brentfreaney.us" target="_blank">Brent Freaney</a> 
+            </p>
+          
+          
+        </div>
+      
+      
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post  odd">
+          <a href="http://www.kingsleyrowe.com" target="_blank"><img src="/uploads/38%20-%20kingsleyrowe@2x.jpg" alt="Kingsley Rowe" width="600px"></a>
+          <h1 class="post-title">
+            <a href="http://www.kingsleyrowe.com" target="_blank" class="post-link">Kingsley Rowe</a>
+            <span class="post-meta">19-08-16</span>
+          </h1>
+          
+          <!--<p class="link-to-store"><a href="http://www.kingsleyrowe.com" target="_blank">&#8618;</a></p>-->
+
+          
+            <p>Credit: <a href="http://pollenlondon.com" target="_blank">Pollen</a> 
+            </p>
+          
+          
+        </div>
+      
+      
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post  odd">
+          <a href="http://www.qasimi.com" target="_blank"><img src="/uploads/50%20-%20qasimi@2x.jpg" alt="Qasimi" width="600px"></a>
+          <h1 class="post-title">
+            <a href="http://www.qasimi.com" target="_blank" class="post-link">Qasimi</a>
+            <span class="post-meta">19-08-16</span>
+          </h1>
+          
+          <!--<p class="link-to-store"><a href="http://www.qasimi.com" target="_blank">&#8618;</a></p>-->
+
+          
+            <p>Credit: <a href="http://www.thebarnagency.co.uk" target="_blank">The Barn</a> 
+            </p>
+          
+          
+        </div>
+      
+      
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post  odd">
+          <a href="https://www.folkclothing.com" target="_blank"><img src="/uploads/90%20-%20Folk@2x.jpg" alt="Folk" width="600px"></a>
+          <h1 class="post-title">
+            <a href="https://www.folkclothing.com" target="_blank" class="post-link">Folk</a>
+            <span class="post-meta">19-08-16</span>
+          </h1>
+          
+          <!--<p class="link-to-store"><a href="https://www.folkclothing.com" target="_blank">&#8618;</a></p>-->
+
+          
+            <p>Credit: <a href="http://iyastudio.co.uk" target="_blank">IYA</a> 
+            </p>
+          
+          
+        </div>
+      
+      
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post  odd">
+          <a href="http://oyyo.se" target="_blank"><img src="/uploads/44%20-%20oyyo@2x.jpg" alt="Oyyo" width="600px"></a>
+          <h1 class="post-title">
+            <a href="http://oyyo.se" target="_blank" class="post-link">Oyyo</a>
+            <span class="post-meta">19-08-16</span>
+          </h1>
+          
+          <!--<p class="link-to-store"><a href="http://oyyo.se" target="_blank">&#8618;</a></p>-->
+
+          
+            <div class="filler"></div>
+          
+          
+        </div>
+      
+      
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post  odd">
+          <a href="http://www.horsesatelier.com" target="_blank"><img src="/uploads/75%20-%20horsesatelier@2x.jpg" alt="Horses Atelier" width="600px"></a>
+          <h1 class="post-title">
+            <a href="http://www.horsesatelier.com" target="_blank" class="post-link">Horses Atelier</a>
+            <span class="post-meta">19-08-16</span>
+          </h1>
+          
+          <!--<p class="link-to-store"><a href="http://www.horsesatelier.com" target="_blank">&#8618;</a></p>-->
+
+          
+            <div class="filler"></div>
+          
+          
+        </div>
+      
+      
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post  odd">
+          <a href="https://www.electricobjects.com" target="_blank"><img src="/uploads/74%20-%20beyondthevines@2x.jpg" alt="Beyond The Vines" width="600px"></a>
+          <h1 class="post-title">
+            <a href="https://www.electricobjects.com" target="_blank" class="post-link">Beyond The Vines</a>
+            <span class="post-meta">19-08-16</span>
+          </h1>
+          
+          <!--<p class="link-to-store"><a href="https://www.electricobjects.com" target="_blank">&#8618;</a></p>-->
+
+          
+            <div class="filler"></div>
+          
+          
+        </div>
+      
+      
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post  odd">
+          <a href="http://zanzan.co.uk" target="_blank"><img src="/uploads/106%20-%20zanzan@2x.jpg" alt="Zanzan" width="600px"></a>
+          <h1 class="post-title">
+            <a href="http://zanzan.co.uk" target="_blank" class="post-link">Zanzan</a>
+            <span class="post-meta">19-08-16</span>
+          </h1>
+          
+          <!--<p class="link-to-store"><a href="http://zanzan.co.uk" target="_blank">&#8618;</a></p>-->
+
+          
+            <p>Credit: <a href="http://no-plans.com" target="_blank">No Plans</a> 
+            </p>
+          
+          
+        </div>
+      
+      
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post  odd">
+          <a href="http://thisisfabric.com" target="_blank"><img src="/uploads/135%20-%20fabric@2x.jpg" alt="Fabric" width="600px"></a>
+          <h1 class="post-title">
+            <a href="http://thisisfabric.com" target="_blank" class="post-link">Fabric</a>
+            <span class="post-meta">19-08-16</span>
+          </h1>
+          
+          <!--<p class="link-to-store"><a href="http://thisisfabric.com" target="_blank">&#8618;</a></p>-->
+
+          
+            <div class="filler"></div>
+          
+          
+        </div>
+      
+      
+        <div class="grid__item small--one-whole mediumSmall--one-half medium--one-half large--one-third post  even">
+          <a href="http://www.shopneighbour.com" target="_blank"><img src="/uploads/56%20-%20neighbour@2x.jpg" alt="Neighbour" width="600px"></a>
+          <h1 class="post-title">
+            <a href="http://www.shopneighbour.com" target="_blank" class="post-link">Neighbour</a>
+            <span class="post-meta">19-08-16</span>
+          </h1>
+          
+          <!--<p class="link-to-store"><a href="http://www.shopneighbour.com" target="_blank">&#8618;</a></p>-->
+
+          
+            <div class="filler"></div>
+          
+          
+        </div>
+      
     </div>
 
-    {% include pagination.html maxPages=5 %}
-  {% else %}
-    <h1 class='center'>{{ site.text.index.coming_soon }}</h3>
-  {% endif %}
+    <!-- Paginator Links -->
+<div class="paginator-links">
+  
+    
+  
+
+  
+  
+  
+    <!-- left-align -->
+    
+    
+  
+
+  <!-- First page 
+  
+    <span class="first-page"></span>
+  -->
+
+  <!-- Previous page -->
+  
+    <span class="previous-page" style="display:none;"></span>
+  
+
+  <!-- Start ellipsis -->
+  
+
+    <!-- Page numbers -->
+    <span class="numbers">
+  
+    
+      <span class="number current">1</span>
+    
+  
+    
+      <a class="number" href="/page2">2</a>
+    
+  
+    
+      <a class="number" href="/page3">3</a>
+    
+  
+    
+      <a class="number" href="/page4">4</a>
+    
+  
+    
+      <a class="number" href="/page5">5</a>
+    
+  
+  </span>
+
+  <!-- End ellipsis -->
+  
+    <span class="end-ellipsis"></span>
+  
+
+  <!-- Next page -->
+  
+    <a href="/page2" class="next-page"></a>
+  
+
+  <!-- Last page
+  
+    <a href="/page11" class="last-page"></a>
+  -->
 </div>
+  
+</div>
+
+      </div>
+    </div>
+  </div>
+
+  <footer>
+	<div id="more-info" class="grid">
+		<div class="grid__item small--one-whole one-half large--one-third push--large--one-third">
+			<h2>In a nutshell...</h2>
+			<p>We love Shopify and wanted to create a showcase that gives merchants insight into what’s possible on Shopify and inspire other designers and developers using the platform.</p>
+
+			<nav class="site-nav">
+		      
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        <a href="/submit-a-store/"><span class="underline">Submit a store</span>&nbsp; &#8594;</a> 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+<!-- 
+    
+
+    
+        <a href="/about/">About</a>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+ -->
+		    </nav>
+		</div>
+
+		<div class="grid__item small--one-whole one-half large--one-third push--large--one-third right-side">
+			<h2>Need help with your Shopify store?</h2>
+			<p class="footer-link">Looking to launch an e-commerce store or need help with your existing Shopify store? As <a href="http://bit.ly/29BgFay" target="_blank">certified Shopify experts</a>, we’re experienced in all things Shopify. Let’s talk!
+				<br><br> 
+				<a href="http://bit.ly/2b3omsc" target="_blank"><span class="underline">Get in touch</span>&nbsp; &#8594;</a>
+			</p>
+		</div>
+	</div>
+
+	<div id="footer-bottom-bar" class="grid">
+		<div class="grid__item small--one-whole one-half large--one-third newsletter-form">
+	      <form action="//hatchinc.us8.list-manage.com/subscribe/post?u=3abae1c2b95263205e4988aee&amp;id=1071b45add" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" class="form-vertical">
+	        <div class="input-group">
+	          <input type="email" value="" placeholder="Subscribe" name="EMAIL" id="Email" class="input-group-field" autocorrect="off" autocapitalize="off">
+	          <span class="input-group-btn">
+	            <button type="submit" name="subscribe" id="subscribe">
+	              <span class="right-arrow">&rarr;</span>
+	            </button>
+	          </span>
+	        </div>
+	      </form>
+		</div>
+
+		<div class="grid__item small--one-whole one-half large--two-thirds copyright-text">
+			<p>&copy; 2016 <a href="http://www.hatchinc.co" target="_blank">Hatch Inc.</a> All screenshots &copy; of their respective owners.</a></p>
+		</div>
+	</div>
+</footer>
+
+
+  <script src="/js/main.js"></script>
+  
+</body>
+</html>
