@@ -1,0 +1,246 @@
+.site-header {
+  position: fixed;
+  width: 100%;
+  background-color: #fff;
+  padding: 0;
+  z-index: 999;
+  border-bottom: 1px solid #edecec;
+
+  .grid {
+    display: table;
+    width: 100%;
+
+    .grid__item {
+      display: table-cell;
+      vertical-align: middle;
+      float: none;
+    }
+  }
+  
+  .site-header-block {
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    background-color: #edecec;
+    height: 0;
+  }
+
+  .top-bar--links {
+    padding-bottom: 0;
+  }
+
+  button.search-btn {
+    background-color: transparent;
+    border-left: 1px solid $border-color;
+    padding: 0 20px 0 25px;
+    margin: 0;
+    height: 66px;
+  }
+
+  span.social-wrap  {
+    padding: 0 20px 0 25px;/*20px 20px 21px 25px;*/
+    vertical-align: top;
+    border-left: 1px solid $border-color;
+    display: inline-block;
+    height: 66px;
+
+    a {
+      padding-top: 26px;
+      vertical-align: middle;
+    }
+
+    .fa-shopify {
+      width: 20px;
+      height: auto;
+      padding-top: 23px;
+      padding-right: 3px;
+    }
+  }
+}
+
+.site-header a {
+  color: lighten(#a6a5a5, 10%);
+  font-size: 19px;
+  background-image: none;
+
+  &:hover {
+    color: #a6a5a5;
+  }
+}
+
+.site-logo {
+  padding: 18px 40px;
+
+  a {
+    text-align: right;
+
+    @include at-query($max, $medium) {
+      text-align: left;
+    }
+  }
+
+  @include at-query($max, $small) {
+    padding: 18px 0 18px 40px;
+  }
+}
+
+.site-header .site-title {
+  font-size: 18px !important;
+  font-weight: $heading-font-weight;
+  line-height: 27px;
+  color: #363636;
+  float: right !important;
+
+  @include at-query($max, $medium) {
+    float: left !important;
+  }
+
+  @include at-query($max, $small) {
+    font-size: 17px !important;
+  }
+}
+
+.site-nav {
+  margin-top: $space-2;
+}
+
+.site-header nav a {
+  color: #666;
+}
+
+.site-header nav a:hover,
+.site-header nav a:focus,
+.site-header nav a:active {
+  color: #444;
+  opacity: 1;
+  border-bottom: 2px solid #444;
+}
+
+.site-nav a + a {
+  margin-left: 1em;
+}
+
+.site-header a:hover,
+.posts .post a:hover .post-meta,
+.posts .post a:hover .post-title,
+.posts .post a:hover .post-summary {
+  opacity: 0.88;
+}
+
+.site-header {
+  text-align: center;
+}
+
+.site-header .site-nav {
+  text-align: center;
+}
+
+#header-intro, 
+#search-header {
+  margin-top: 65px;
+  background-color: #edecec;
+  padding: 54px 0 58px 0;
+
+  .grid__item {
+    padding: 0 40px;
+    max-width: 400px;
+
+    p {
+      padding-top: 8px;
+      margin-bottom: 0;
+
+      a {
+        .underline {
+          padding-bottom: 3px;
+          border-bottom: 1px solid #b2b1b1;
+        }
+      }
+    }
+  }
+
+  @include at-query($max, $large) {
+    margin-top: 64px;
+  }
+  @include at-query($max, $small) {
+    .grid__item {
+      padding: 0 40px;
+      max-width: 480px;
+    }
+  }
+}
+
+/* Search Expand */
+
+.container{
+  display: inline-block;
+  float: left;
+
+  @include at-query($max, $small) {
+    display: none;
+  }
+}
+
+.searchbox{
+  position:relative;
+  min-width:66px;
+  width:0%;
+  height:66px;
+  float:right;
+  overflow:hidden;
+  border-left: 1px solid $border-color;
+  
+  -webkit-transition: width 0.3s;
+  -moz-transition: width 0.3s;
+  -ms-transition: width 0.3s;
+  -o-transition: width 0.3s;
+  transition: width 0.3s;
+}
+
+input.searchbox-input{
+  top:0;
+  right:0;
+  border:0;
+  outline:0;
+  background:#fff;
+  width:100%;
+  height:66px;
+  margin:0 !important;
+  padding-left: 20px;
+  font-size: 18px;
+  color:#b2b1b1;
+}
+.searchbox-input::-webkit-input-placeholder {
+  color: #b2b1b1;
+}
+.searchbox-input:-moz-placeholder {
+  color: #b2b1b1;
+}
+.searchbox-input::-moz-placeholder {
+  color: #b2b1b1;
+}
+.searchbox-input:-ms-input-placeholder {
+  color: #b2b1b1;
+}
+
+.searchbox-icon,
+.searchbox-submit{
+  width:66px;
+  height: 66px;
+  display:block;
+  position:absolute;
+  top:0;
+  right:0;
+  padding:0;
+  margin:0;
+  border:0;
+  outline:0;
+  line-height:69px;
+  text-align:center;
+  cursor:pointer;
+  color: lighten(#a6a5a5, 10%);
+  background: #fff;
+}
+
+.searchbox-open{
+    width:100%;
+}

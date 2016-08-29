@@ -1,0 +1,11 @@
+---
+title: Marle
+date: 2016-08-17 19:44:00 Z
+image: "/uploads/94%20-%20marleknitwear@2x.jpg"
+store-link: http://www.marle.co.nz
+credit: Hannah Design
+credit-link: http://hannahdesign.co.nz
+credit-2: Natalie J. Leigh
+credit-link-2: http://nataliejleigh.com
+---
+

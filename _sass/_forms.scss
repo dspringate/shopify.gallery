@@ -1,0 +1,122 @@
+input,
+select,
+textarea,
+fieldset {
+  font-size: $form-field-font-size;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+input[type=text],
+input[type=datetime],
+input[type=datetime-local],
+input[type=email],
+input[type=month],
+input[type=number],
+input[type=password],
+input[type=search],
+input[type=tel],
+input[type=time],
+input[type=url],
+input[type=week] {
+  box-sizing: border-box;
+  height: $form-field-height;
+  padding: 0;
+  vertical-align: middle;
+  -webkit-appearance: none;
+  @extend h2;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #363636;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #363636;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #363636;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: #363636;
+}
+
+select {
+  box-sizing: border-box;
+  line-height: 1.75;
+  padding: $form-field-padding-y $form-field-padding-x;
+}
+
+select:not([multiple]) {
+  height: $form-field-height;
+  vertical-align: middle;
+}
+
+textarea {
+  box-sizing: border-box;
+  line-height: 1.75;
+  padding: $form-field-padding-y $form-field-padding-x;
+}
+
+.form-stacked input,
+.form-stacked textarea,
+.form-stacked select {
+  width: 100%;
+}
+
+.field-light {
+  background-color: white;
+  transition: box-shadow .2s ease;
+  border-radius: 0 none;
+  border: 0;
+  border-bottom: 1px solid $border-color;
+}
+
+.field-light:focus {
+  outline: none;
+  box-shadow: 0 none;
+}
+
+.field-light:disabled {
+  color: $mid-gray;
+  background-color: $darken-2;
+}
+
+.field-light:read-only:not(select) {
+  background-color: $darken-2;
+}
+
+.field-light:invalid {
+  border-color: $red;
+}
+
+.field-light.is-success {
+  border-color: $green;
+}
+
+.field-light.is-warning {
+  border-color: $yellow;
+}
+
+.field-light.is-error {
+  border-color: $red;
+}
+
+
+.radio-light,
+.checkbox-light {
+  transition: box-shadow .2s ease;
+}
+
+.radio-light {
+  border-radius: 50%;
+}
+
+.radio-light:focus,
+.checkbox-light:focus {
+  outline: none;
+  box-shadow: 0 0 2px rgba($blue, .5);
+}
