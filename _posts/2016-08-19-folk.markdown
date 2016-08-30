@@ -1,7 +1,7 @@
 ---
 title: Folk
 date: 2016-08-19 12:18:00 Z
-image: "/uploads/90-Folk@2x.jpg"
+image: "/uploads/90-Folk@2x-b29a3a.jpg"
 store-link: https://www.folkclothing.com
 credit: IYA
 credit-link: http://iyastudio.co.uk
