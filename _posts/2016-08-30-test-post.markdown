@@ -1,7 +1,0 @@
----
-title: Test Post
-date: 2016-08-30 07:55:00 Z
-image: 
-store-link: hatchinc.co
----
-
