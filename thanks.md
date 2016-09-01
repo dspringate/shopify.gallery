@@ -4,4 +4,8 @@ permalink: "/thanks/"
 layout: page
 ---
 
-{{ site.text.thanks }}
+<div id="submit-a-site" class="grid">
+  <div class="grid__item">
+    {{ site.text.thanks }}
+  </div>
+</div>
