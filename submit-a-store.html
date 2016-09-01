@@ -6,10 +6,6 @@ tags: submit
 
 <div id="submit-a-store" class="grid">
   <div class="grid_item">
-    {% if site.ajaxify_contact_form %}
-      {% include ajaxify_content_form.html %}
-    {% endif %}
-    
     <h2>Submit a Shopify store</h2>
     <p>Seen a Shopify store you like? Or designed and/or developed a store that you're proud of? Submit the URL and a credit below.</p>
     {% if site.ajaxify_contact_form %}
@@ -36,3 +32,6 @@ tags: submit
   </div>
 </div>
 
+    {% if site.ajaxify_contact_form %}
+      {% include ajaxify_content_form.html %}
+    {% endif %}
