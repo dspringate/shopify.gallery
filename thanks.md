@@ -6,6 +6,6 @@ layout: page
 
 <div id="submit-a-store" class="grid">
   <div class="grid_item">
-    {{ site.text.thanks }}
+    <h2>{{ site.text.thanks }}</div>
   </div>
 </div>
