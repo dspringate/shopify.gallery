@@ -1,0 +1,11 @@
+---
+title: M.Patmos
+date: 2016-09-14 08:00:00 Z
+image: "/uploads/158-mpatmos@2x.jpg"
+store-link: http://mpatmos.com
+credit: Forest
+credit-link: http://thisisforest.com
+credit-2: Camp Quiet
+credit-2-link: http://campquiet.com
+---
+
