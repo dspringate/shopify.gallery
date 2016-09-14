@@ -6,6 +6,6 @@ store-link: http://mpatmos.com
 credit: Forest
 credit-link: http://thisisforest.com
 credit-2: Camp Quiet
-credit-2-link: http://campquiet.com
+credit-link-2: http://campquiet.com
 ---
 
