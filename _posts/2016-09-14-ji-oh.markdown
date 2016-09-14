@@ -1,0 +1,9 @@
+---
+title: Ji Oh
+date: 2016-09-14 08:03:00 Z
+image: "/uploads/157-jioh@2x.jpg"
+store-link: https://shop.jiohny.com
+credit: Hugo & Marie
+credit-link: http://hugoandmarie.com
+---
+
