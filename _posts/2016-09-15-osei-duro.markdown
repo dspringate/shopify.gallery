@@ -1,0 +1,9 @@
+---
+title: Osei-Duro
+date: 2016-09-15 06:45:00 Z
+image: "/uploads/159-oseiduro@2x.jpg"
+store-link: https://oseiduro.com
+credit: Brent Freany
+credit-link: http://www.brentfreaney.us
+---
+
