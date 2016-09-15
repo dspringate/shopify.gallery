@@ -1,0 +1,11 @@
+---
+title: Content
+date: 2016-09-15 06:43:00 Z
+image: "/uploads/160-beingcontent@2x.jpg"
+store-link: https://www.contentbeautywellbeing.com
+credit: Underwaterpistol
+credit-link: http://www.underwaterpistol.com
+credit-2: Round
+credit-link-2: http://round.com.au/
+---
+
