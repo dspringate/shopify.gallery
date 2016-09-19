@@ -6,6 +6,6 @@ store-link: http://www.elderbrookdrinks.co.uk
 credit: "& Smith"
 credit-link: http://andsmithdesign.com/
 credit-2: Underwaterpistol
-credit-2-link: http://www.underwaterpistol.com
+credit-link-2: http://www.underwaterpistol.com
 ---
 
