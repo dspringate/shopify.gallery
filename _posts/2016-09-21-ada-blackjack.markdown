@@ -6,8 +6,8 @@ store-link: http://www.adablackjackgoods.com
 credit: V. Michelitsch
 credit-link: http://www.verenamichelitsch.com
 credit-2: T. van Schneider
-credit-2-link: http://www.vanschneider.com
+credit-link-2: http://www.vanschneider.com
 credit-3: M. Mentasti
-credit-3-link: http://www.mment.at
+credit-link-3: http://www.mment.at
 ---
 
