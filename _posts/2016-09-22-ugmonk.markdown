@@ -1,0 +1,11 @@
+---
+title: Ugmonk
+date: 2016-09-22 07:58:00 Z
+image: "/uploads/168-ugmonk@2x.jpg"
+store-link: http://ugmonk.com
+credit: Jeff Sheldon
+credit-link: https://twitter.com/ugmonk
+credit-2: Jacob Fentress
+credit-link-2: http://jacobfentress.com/
+---
+
