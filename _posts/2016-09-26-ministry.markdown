@@ -3,5 +3,7 @@ title: Ministry
 date: 2016-09-26 06:32:00 Z
 image: "/uploads/170-ministry@2x.jpg"
 store-link: https://ministry.co
+credit: Diff
+credit-link: https://wearediff.com
 ---
 
