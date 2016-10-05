@@ -1,0 +1,9 @@
+---
+title: Luxy Hair
+date: 2016-10-04 16:23:00 Z
+image: "/uploads/183-luxyhair@2x.jpg"
+store-link: https://www.luxyhair.com
+credit: Lucid
+credit-link: http://www.lucid.co.nz
+---
+
