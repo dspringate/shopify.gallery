@@ -2,5 +2,6 @@
 title: Thinx
 date: 2016-10-10 07:35:00 Z
 image: "/uploads/186-shethinx@2x.jpg"
+store-link: https://www.shethinx.com
 ---
 
