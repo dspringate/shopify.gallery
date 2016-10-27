@@ -3,6 +3,11 @@ title: Wolf Noir
 date: 2016-10-04 09:35:00 Z
 tags:
 - sunglasses
+- fashion
+- apparel
+- shopify
+- e-commerce
+- design
 image: "/uploads/181-wolfnoir@2x.jpg"
 store-link: https://wolfnoir.com
 ---
