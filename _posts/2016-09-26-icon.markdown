@@ -1,6 +1,12 @@
 ---
 title: Icon
 date: 2016-09-26 06:33:00 Z
+tags:
+- lingerie
+- underwear
+- shopify
+- e-commerce
+- design
 image: "/uploads/172-iconundies@2x.jpg"
 store-link: https://www.iconundies.com
 ---
