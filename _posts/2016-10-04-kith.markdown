@@ -1,6 +1,13 @@
 ---
 title: Kith
 date: 2016-10-04 16:23:00 Z
+tags:
+- clothing
+- apparel
+- fashion
+- shopify
+- e-commerce
+- design
 image: "/uploads/182-kithnyc@2x.jpg"
 store-link: https://kithnyc.com
 ---
