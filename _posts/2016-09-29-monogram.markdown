@@ -1,6 +1,13 @@
 ---
 title: Monogram
 date: 2016-09-29 07:30:00 Z
+tags:
+- fashion
+- apparel
+- clothing
+- shopify
+- e-commerce
+- design
 image: "/uploads/176-monogram@2x.jpg"
 store-link: https://monogramstudio.com
 credit: Scissor
