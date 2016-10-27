@@ -1,6 +1,13 @@
 ---
 title: Division Road
 date: 2016-09-22 07:56:00 Z
+tags:
+- fashion
+- apparel
+- clothing
+- shopify
+- e-commerce
+- design
 image: "/uploads/169-divisionroad@2x.jpg"
 store-link: https://divisionroadinc.com
 credit: Andy Luce
