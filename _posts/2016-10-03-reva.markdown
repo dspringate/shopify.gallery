@@ -1,6 +1,13 @@
 ---
 title: Reva
 date: 2016-10-03 07:41:00 Z
+tags:
+- fashion
+- apparel
+- fitness
+- e-commerce
+- shopify
+- design
 image: "/uploads/179-revawear@2x.jpg"
 store-link: https://revawear.com
 credit: Julia Kostreva
