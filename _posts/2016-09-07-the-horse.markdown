@@ -1,6 +1,13 @@
 ---
 title: The Horse
 date: 2016-09-07 07:31:00 Z
+tags:
+- fashion
+- accessories
+- watches
+- shopify
+- e-commerce
+- design
 image: "/uploads/144-thehorse.jpg"
 store-link: https://www.thehorse.com.au
 credit: White Flag
