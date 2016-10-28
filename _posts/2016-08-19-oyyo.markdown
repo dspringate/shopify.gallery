@@ -1,6 +1,12 @@
 ---
 title: Oyyo
 date: 2016-08-19 12:17:00 Z
+tags:
+- homewares
+- rugs
+- shopify
+- e-commerce
+- design
 image: "/uploads/44-oyyo@2x-d3b509.jpg"
 store-link: http://oyyo.se
 ---
