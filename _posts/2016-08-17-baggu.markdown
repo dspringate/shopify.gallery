@@ -1,6 +1,14 @@
 ---
 title: Baggu
 date: 2016-08-17 15:05:00 Z
+tags:
+- fashion
+- accessories
+- bags
+- handbag
+- shopify
+- e-commerce
+- design
 image: "/uploads/41%20-%20baggu@2x.jpg"
 store-link: http://baggu.com
 ---
