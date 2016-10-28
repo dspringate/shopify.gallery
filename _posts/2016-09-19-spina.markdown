@@ -1,6 +1,12 @@
 ---
 title: Spina
 date: 2016-09-19 06:55:00 Z
+tags:
+- bridal
+- flowers
+- e-commerce
+- shopify
+- design
 image: "/uploads/162-spina@2x.jpg"
 store-link: https://spinanyc.com
 credit: Scott Haven
