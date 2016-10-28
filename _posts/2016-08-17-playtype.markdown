@@ -1,6 +1,14 @@
 ---
 title: Playtype
 date: 2016-08-17 15:41:00 Z
+tags:
+- stationery
+- posters
+- typography
+- lettering
+- shopify
+- e-commerce
+- design
 image: "/uploads/62%20-%20playtype@2x.jpg"
 store-link: http://store.playtype.com
 ---
