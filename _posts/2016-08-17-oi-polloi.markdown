@@ -1,6 +1,15 @@
 ---
 title: Oi Polloi
 date: 2016-08-17 12:25:00 Z
+tags:
+- fashion
+- mens
+- lifestyle
+- clothing
+- apparel
+- shopify
+- e-commerce
+- design
 image: "/uploads/1%20-%20oipolloi@2x.jpg"
 store-link: https://www.oipolloi.com
 credit: 
