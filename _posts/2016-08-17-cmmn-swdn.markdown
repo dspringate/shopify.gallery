@@ -1,6 +1,13 @@
 ---
 title: Cmmn Swdn
 date: 2016-08-17 15:14:00 Z
+tags:
+- fashion
+- clothing
+- apparel
+- shopify
+- e-commerce
+- design
 image: "/uploads/45%20-%20cmmnswdn@2x.jpg"
 store-link: http://cmmn-swdn.com
 ---

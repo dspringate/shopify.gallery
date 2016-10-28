@@ -1,6 +1,13 @@
 ---
 title: Luva Huva
 date: 2016-09-19 06:53:00 Z
+tags:
+- lingerie
+- underwear
+- women
+- shopify
+- e-commerce
+- design
 image: "/uploads/161-luvahuva@2x.jpg"
 store-link: https://luvahuva.co.uk
 credit: Hatch Inc.

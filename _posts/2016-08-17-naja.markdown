@@ -1,6 +1,14 @@
 ---
 title: Naja
 date: 2016-08-17 20:29:00 Z
+tags:
+- lingerie
+- swimwear
+- underwear
+- women
+- shopify
+- e-commerce
+- design
 image: "/uploads/107%20-%20naja@2x.jpg"
 store-link: http://www.naja.co
 ---

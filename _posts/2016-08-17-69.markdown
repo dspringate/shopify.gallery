@@ -1,6 +1,13 @@
 ---
 title: '69'
 date: 2016-08-17 12:54:00 Z
+tags:
+- fashion
+- clothing
+- apparel
+- shopify
+- e-commerce
+- design
 image: "/uploads/8%20-%2069worldwide@2x.jpg"
 store-link: http://sixty-nine.us
 credit: Brent Freaney

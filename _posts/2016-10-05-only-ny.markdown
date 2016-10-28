@@ -1,6 +1,14 @@
 ---
 title: Only NY
 date: 2016-10-05 11:52:00 Z
+tags:
+- fashion
+- clothing
+- apparel
+- streetwear
+- shopify
+- e-commerce
+- design
 image: "/uploads/185-onlyny@2x.jpg"
 store-link: http://onlyny.com
 ---

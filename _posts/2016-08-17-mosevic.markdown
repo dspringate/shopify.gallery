@@ -1,6 +1,14 @@
 ---
 title: Mosevic
 date: 2016-08-17 13:47:00 Z
+tags:
+- fashion
+- eyewear
+- sunglasses
+- accessories
+- shopify
+- e-commerce
+- design
 image: "/uploads/35%20-%20mosevic@2x.jpg"
 store-link: http://mosevic.com
 ---

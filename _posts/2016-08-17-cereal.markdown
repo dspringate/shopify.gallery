@@ -1,6 +1,13 @@
 ---
 title: Cereal
 date: 2016-08-17 12:45:00 Z
+tags:
+- magazine
+- lifestyle
+- travel
+- shopify
+- e-commerce
+- design
 image: "/uploads/5%20-%20cerealmagazine@2x.jpg"
 store-link: https://shop.readcereal.com
 credit: Rich Stapleton

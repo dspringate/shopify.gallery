@@ -1,6 +1,14 @@
 ---
 title: Zanzan
 date: 2016-08-19 12:14:00 Z
+tags:
+- fashion
+- accessories
+- eyewear
+- sunglasses
+- shopify
+- e-commerce
+- design
 image: "/uploads/106-zanzan@2x-840e2c.jpg"
 store-link: http://zanzan.co.uk
 credit: No Plans

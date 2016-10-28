@@ -1,6 +1,14 @@
 ---
 title: Tens
 date: 2016-08-17 15:31:00 Z
+tags:
+- fashion
+- accessories
+- eyewear
+- sunglasses
+- shopify
+- e-commerce
+- design
 image: "/uploads/55%20-%20tens@2x.jpg"
 store-link: https://www.tenslife.com
 ---

@@ -1,6 +1,12 @@
 ---
 title: Luxy Hair
 date: 2016-10-04 16:23:00 Z
+tags:
+- hair extensions
+- women
+- e-commerce
+- shopify
+- design
 image: "/uploads/183-luxyhair@2x.jpg"
 store-link: https://www.luxyhair.com
 credit: Lucid

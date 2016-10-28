@@ -1,6 +1,13 @@
 ---
 title: Bygone
 date: 2016-08-18 07:50:00 Z
+tags:
+- homewares
+- accessories
+- technology
+- shopify
+- e-commerce
+- design
 image: "/uploads/127%20-%20bygonestore@2x.jpg"
 store-link: https://bygonestore.com
 credit: Hatch Inc.

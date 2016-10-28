@@ -1,6 +1,13 @@
 ---
 title: Ugmonk
 date: 2016-09-22 07:58:00 Z
+tags:
+- fashion
+- apparel
+- clothing
+- shopify
+- e-commerce
+- design
 image: "/uploads/168-ugmonk@2x.jpg"
 store-link: http://ugmonk.com
 credit: Jeff Sheldon

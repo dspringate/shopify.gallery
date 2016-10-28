@@ -6,6 +6,8 @@ tags:
 - fashion
 - shopify
 - e-commerce
+- apparel
+- design
 image: "/uploads/187-fearofgod-3@2x.jpg"
 store-link: https://fearofgod.com
 credit: Mister

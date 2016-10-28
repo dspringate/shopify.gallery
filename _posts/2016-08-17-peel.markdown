@@ -1,6 +1,12 @@
 ---
 title: Peel
 date: 2016-08-17 17:04:00 Z
+tags:
+- technology
+- accessories
+- shopify
+- e-commerce
+- design
 image: "/uploads/88%20-%20peel@2x.jpg"
 store-link: https://buypeel.com
 ---

@@ -1,6 +1,12 @@
 ---
 title: ILA
 date: 2016-08-17 16:56:00 Z
+tags:
+- food
+- drink
+- shopify
+- e-commerce
+- design
 image: "/uploads/84%20-%20ilacollection@2x.jpg"
 store-link: http://ila-shop.co
 credit: Studio Faculty

@@ -1,6 +1,13 @@
 ---
 title: LOQ
 date: 2016-08-19 12:21:00 Z
+tags:
+- fashion
+- accessories
+- shoes
+- shopify
+- e-commerce
+- design
 image: "/uploads/134-loq@2x-57a27c.jpg"
 store-link: http://www.loq.us
 credit: Brent Freaney

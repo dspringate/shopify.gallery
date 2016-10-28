@@ -1,6 +1,14 @@
 ---
 title: Puritaan
 date: 2016-08-17 15:28:00 Z
+tags:
+- fashion
+- accessories
+- bags
+- technology
+- shopify
+- e-commerce
+- design
 image: "/uploads/52%20-%20puritaan@2x.jpg"
 store-link: http://www.puritaan.com
 credit: Pixelephant

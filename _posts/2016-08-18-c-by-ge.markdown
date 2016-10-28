@@ -1,6 +1,12 @@
 ---
 title: C By GE
 date: 2016-08-18 07:43:00 Z
+tags:
+- homewares
+- lighting
+- shopify
+- e-commerce
+- design
 image: "/uploads/119%20-%20cbyge@2x.jpg"
 store-link: https://www.cbyge.com
 ---

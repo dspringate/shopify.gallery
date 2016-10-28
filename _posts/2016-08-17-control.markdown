@@ -1,6 +1,13 @@
 ---
 title: Control
 date: 2016-08-17 16:53:00 Z
+tags:
+- music
+- sound
+- technology
+- shopify
+- e-commerce
+- design
 image: "/uploads/83%20-%20Control%20@2x.jpg"
 store-link: http://www.ctrl-mod.com
 credit: Athletics

@@ -1,6 +1,14 @@
 ---
 title: Greats
 date: 2016-08-18 07:44:00 Z
+tags:
+- fashion
+- shoes
+- trainers
+- sneakers
+- shopify
+- e-commerce
+- design
 image: "/uploads/120%20-%20greats@2x.jpg"
 store-link: https://www.greats.com
 ---

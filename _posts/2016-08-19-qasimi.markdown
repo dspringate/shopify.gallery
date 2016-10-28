@@ -1,6 +1,14 @@
 ---
 title: Qasimi
 date: 2016-08-19 12:19:00 Z
+tags:
+- mens
+- fashion
+- clothing
+- apparel
+- shopify
+- e-commerce
+- design
 image: "/uploads/50-qasimi@2x-0bd393.jpg"
 store-link: http://www.qasimi.com
 credit: The Barn

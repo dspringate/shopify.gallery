@@ -5,6 +5,10 @@ tags:
 - skate
 - clothing
 - skateboard
+- fashion
+- shopify
+- e-commerce
+- design
 image: "/uploads/180-palaceskateboards@2x.jpg"
 store-link: https://shop.palaceskateboards.com
 ---

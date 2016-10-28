@@ -1,6 +1,13 @@
 ---
 title: Ohlin-d
 date: 2016-08-17 13:11:00 Z
+tags:
+- fashion
+- clothing
+- apparel
+- shopify
+- e-commerce
+- design
 image: "/uploads/15%20-%20ohlin-d@2x.jpg"
 store-link: http://www.ohlin-d.com
 credit: XIXX
