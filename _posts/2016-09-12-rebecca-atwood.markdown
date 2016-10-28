@@ -2,9 +2,7 @@
 title: Rebecca Atwood
 date: 2016-09-12 07:26:00 Z
 tags:
-- fashion
-- clothing
-- apparel
+- homewares
 - shopify
 - e-commerce
 - design
