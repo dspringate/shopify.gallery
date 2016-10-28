@@ -1,6 +1,12 @@
 ---
 title: Ouai
 date: 2016-08-17 20:17:00 Z
+tags:
+- haircare
+- women
+- shopify
+- e-commerce
+- design
 image: "/uploads/99%20-%20ouaihaircare@2x.jpg"
 store-link: http://theouai.com
 ---
