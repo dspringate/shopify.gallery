@@ -1,6 +1,12 @@
 ---
 title: Areaware
 date: 2016-08-17 16:51:00 Z
+tags:
+- homewares
+- accessories
+- shopify
+- e-commerce
+- design
 image: "/uploads/82%20-%20areaware@2x.jpg"
 store-link: http://www.areaware.com
 ---
