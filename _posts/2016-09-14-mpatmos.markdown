@@ -1,6 +1,13 @@
 ---
 title: M.Patmos
 date: 2016-09-14 08:00:00 Z
+tags:
+- fashion
+- clothing
+- apparel
+- shopify
+- e-commerce
+- design
 image: "/uploads/158-mpatmos@2x.jpg"
 store-link: http://mpatmos.com
 credit: Forest
