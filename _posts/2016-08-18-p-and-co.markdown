@@ -1,6 +1,13 @@
 ---
 title: P & Co
 date: 2016-08-18 08:00:00 Z
+tags:
+- fashion
+- apparel
+- clothing
+- shopify
+- e-commerce
+- design
 image: "/uploads/131%20-%20p&co@2x.jpg"
 store-link: https://pand.co
 ---
