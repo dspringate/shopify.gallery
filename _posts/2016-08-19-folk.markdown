@@ -1,6 +1,15 @@
 ---
 title: Folk
 date: 2016-08-19 12:18:00 Z
+tags:
+- fashion
+- mens
+- womens
+- clothing
+- apparel
+- shopify
+- e-commerce
+- design
 image: "/uploads/90-Folk@2x-b29a3a.jpg"
 store-link: https://www.folkclothing.com
 credit: IYA
