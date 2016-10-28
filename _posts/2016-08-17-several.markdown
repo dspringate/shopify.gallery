@@ -1,6 +1,14 @@
 ---
 title: Several
 date: 2016-08-17 12:52:00 Z
+tags:
+- london
+- fashion
+- clothing
+- apparel
+- shopify
+- e-commerce
+- design
 image: "/uploads/7%20-%20several@2x.jpg"
 store-link: http://several.co
 credit: Commission
