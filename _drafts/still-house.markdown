@@ -7,7 +7,7 @@ tags:
 - design
 - homewares
 - jewellery
-- interiors
+- interior
 image: "/uploads/194---stillhouse@2x.jpg"
 store-link: http://www.stillhousenyc.com
 ---
