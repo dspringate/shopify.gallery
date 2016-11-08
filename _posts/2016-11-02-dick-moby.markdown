@@ -1,7 +1,15 @@
 ---
 title: Dick Moby
 date: 2016-11-02 11:32:00 Z
+tags:
+- shopify
+- e-commerce
+- design
+- fashion
+- accessories
 image: "/uploads/196-dickmoby@2x.jpg"
 store-link: https://www.dick-moby.com
+credit: Eastside Co.
+credit-link: https://eastsideco.com
 ---
 
