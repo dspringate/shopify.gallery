@@ -9,5 +9,7 @@ tags:
 - accessories
 image: "/uploads/196-dickmoby@2x.jpg"
 store-link: https://www.dick-moby.com
+credit: Eastside Co.
+credit-link: https://eastsideco.com
 ---
 
