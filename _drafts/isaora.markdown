@@ -7,6 +7,7 @@ tags:
 - design
 - fashion
 - apparel
+- clothing
 image: 
 store-link: https://www.isaora.com
 ---
