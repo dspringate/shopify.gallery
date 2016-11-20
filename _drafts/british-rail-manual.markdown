@@ -9,7 +9,7 @@ tags:
 - trains
 - transport
 image: 
-store-link: www.britishrailmanual.com
+store-link: https://www.britishrailmanual.com
 credit: Hatch Inc.
 credit-link: http://www.hatchinc.co
 ---
