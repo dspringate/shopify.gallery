@@ -10,7 +10,7 @@ tags:
 - apparel
 - lingerie
 - underwear
-image: 
+image: "/uploads/206-livetheprocess@2x.jpg"
 store-link: http://shop.livetheprocess.com
 ---
 
