@@ -8,7 +8,7 @@ tags:
 - book
 - trains
 - transport
-image: 
+image: "/uploads/209-brm@2x.jpg"
 store-link: https://www.britishrailmanual.com
 credit: Hatch Inc.
 credit-link: http://www.hatchinc.co
