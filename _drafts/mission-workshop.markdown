@@ -9,7 +9,7 @@ tags:
 - fashion
 - apparel
 - clothing
-image: 
+image: "/uploads/207-missionworkshop@2x.jpg"
 store-link: https://missionworkshop.com
 ---
 
