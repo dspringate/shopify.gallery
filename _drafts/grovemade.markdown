@@ -9,7 +9,7 @@ tags:
 - accessories
 - wood
 - technology
-image: 
+image: "/uploads/213-grovemade-2@2x.jpg"
 store-link: https://grovemade.com
 credit: Department
 credit-link: http://department.nyc
