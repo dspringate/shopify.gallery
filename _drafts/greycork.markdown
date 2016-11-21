@@ -7,7 +7,7 @@ tags:
 - design
 - furniture
 - home
-image: 
+image: "/uploads/202-greycork@2x.jpg"
 store-link: http://www.greycork.com
 ---
 
