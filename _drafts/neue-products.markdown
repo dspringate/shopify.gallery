@@ -6,7 +6,7 @@ tags:
 - e-commerce
 - design
 - technology
-image: 
+image: "/uploads/210-neueproducts@2x.jpg"
 store-link: https://neueproducts.com
 credit: Finely
 credit-link: http://finely.co
