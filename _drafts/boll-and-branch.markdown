@@ -7,7 +7,7 @@ tags:
 - design
 - homewares
 - bedding
-image: 
+image: "/uploads/208-bollandbranch@2x.jpg"
 store-link: www.bollandbranch.com
 credit: BVACCEL
 credit-link: https://www.bvaccel.com
