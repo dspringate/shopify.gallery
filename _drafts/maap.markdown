@@ -11,7 +11,7 @@ tags:
 - fashion
 - apparel
 - clothing
-image: 
+image: "/uploads/211-maap@2x.jpg"
 store-link: https://maap.cc
 credit: 
 credit-link: http://masscurrent.com
