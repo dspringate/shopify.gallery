@@ -8,7 +8,7 @@ tags:
 - fragrance
 - cosmetics
 - perfume
-image: 
+image: "/uploads/204-olo@2x.jpg"
 store-link: http://olofragrance.com
 credit: Department
 credit-link: http://department.nyc
