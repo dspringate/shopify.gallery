@@ -7,7 +7,7 @@ tags:
 - design
 - homewares
 - technology
-image: 
+image: "/uploads/203-leibal@2x.jpg"
 store-link: https://store.leibal.com
 ---
 

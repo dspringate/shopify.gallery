@@ -8,7 +8,7 @@ tags:
 - fashion
 - apparel
 - clothing
-image: 
+image: "/uploads/205-isaora@2x.jpg"
 store-link: https://www.isaora.com
 ---
 

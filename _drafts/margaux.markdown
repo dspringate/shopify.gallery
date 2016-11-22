@@ -9,7 +9,7 @@ tags:
 - apparel
 - shoes
 - accessories
-image: 
+image: "/uploads/212-margauxnyc@2x.jpg"
 store-link: https://shop.margauxny.com/collections
 credit: The Charles
 credit-link: http://thecharlesnyc.com
