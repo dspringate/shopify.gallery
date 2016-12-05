@@ -8,7 +8,7 @@ tags:
 - jewellery
 - women
 - men
-image: 
+image: "/uploads/215-sarahandsebastian@2x.jpg"
 store-link: https://us.sarahandsebastian.com/#in
 ---
 
