@@ -9,7 +9,7 @@ tags:
 - apparel
 - clothing
 - men
-image: 
+image: "/uploads/216-5pm@2x.jpg"
 store-link: https://5pm.fr
 credit: Paul Gacon
 credit-link: http://paulgacon.com/en
