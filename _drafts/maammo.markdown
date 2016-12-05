@@ -7,7 +7,7 @@ tags:
 - e-commerce
 - toys
 - children
-image: 
+image: "/uploads/214-maammo@2x.jpg"
 store-link: https://maammo.com
 ---
 
