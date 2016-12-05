@@ -13,7 +13,7 @@ image:
 store-link: https://5pm.fr
 credit: Paul Gacon
 credit-link: http://paulgacon.com/en
-credit-two: Plus Murs
-credit-link-two: http://www.plusmurs.fr/en
+credit-2: Plus Murs
+credit-link-2: http://www.plusmurs.fr/en
 ---
 
