@@ -13,7 +13,7 @@ tags:
 - clothing
 image: "/uploads/211-maap@2x.jpg"
 store-link: https://maap.cc
-credit: 
+credit: Mass Current
 credit-link: http://masscurrent.com
 ---
 
