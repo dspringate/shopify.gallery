@@ -7,7 +7,7 @@ tags:
 - design
 - accessories
 - watches
-image: 
+image: "/uploads/217-paulvalentine@2x.jpg"
 store-link: https://www.paul-valentine.com
 credit: By Association Only
 credit-link: http://byassociationonly.com
