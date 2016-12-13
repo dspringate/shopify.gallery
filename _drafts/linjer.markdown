@@ -10,7 +10,7 @@ tags:
 - watches
 - handbags
 - bags
-image: 
+image: "/uploads/222-linjer@2x.jpg"
 store-link: https://www.linjer.co
 ---
 
