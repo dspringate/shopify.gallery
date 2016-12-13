@@ -9,7 +9,7 @@ tags:
 - apparel
 - clothing
 - fashion
-image: 
+image: "/uploads/220-swedish-stockings@2x.jpg"
 store-link: https://www.swedishstockings.com
 ---
 
