@@ -10,7 +10,7 @@ tags:
 - fashion
 - apparel
 - women
-image: 
+image: "/uploads/222-her-swimwear@2x.jpg"
 store-link: https://int.herthelabel.com
 ---
 
