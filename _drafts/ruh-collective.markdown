@@ -9,7 +9,7 @@ tags:
 - fashion
 - apparel
 - clothing
-image: 
+image: "/uploads/221-ruhcollective@2x.jpg"
 store-link: https://www.ruhcollective.com
 credit: Leumas Digital
 credit-link: http://leumasdigital.co.uk
