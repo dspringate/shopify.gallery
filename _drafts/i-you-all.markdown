@@ -8,7 +8,7 @@ tags:
 - homewares
 - stationary
 - prints
-image: 
+image: "/uploads/219-iyouall@2x.jpg"
 store-link: https://iyouall.com
 credit: IYA Studio
 credit-link: http://iyastudio.co.uk
