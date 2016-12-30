@@ -8,7 +8,7 @@ tags:
 - fashion
 - apparel
 - shoes
-image: 
+image: "/uploads/224-hickies@2x.jpg"
 store-link: https://uk.hickies.eu
 credit: Softlimit
 credit-link: http://softlimit.com
