@@ -9,7 +9,7 @@ tags:
 - fashion
 - apparel
 - clothing
-image: 
+image: "/uploads/225-daya@2x.jpg"
 store-link: https://dayabyzendaya.com
 ---
 
