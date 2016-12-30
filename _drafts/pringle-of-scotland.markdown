@@ -10,7 +10,7 @@ tags:
 - apparel
 - women
 - mens
-image: 
+image: "/uploads/223-pringle@2x.jpg"
 store-link: https://pringlescotland.com
 ---
 
