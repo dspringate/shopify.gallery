@@ -1,6 +1,6 @@
 ---
 title: Swedish Stockings
-date: 2016-12-13 16:15:00 Z
+date: 2017-01-09 16:15:00 Z
 tags:
 - shopify
 - e-commerce
