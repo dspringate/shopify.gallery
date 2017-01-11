@@ -1,6 +1,6 @@
 ---
 title: Pringle of Scotland
-date: 2016-12-28 12:34:00 Z
+date: 2017-01-11 12:34:00 Z
 tags:
 - shopify
 - e-commerce
