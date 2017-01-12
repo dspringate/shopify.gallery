@@ -9,7 +9,7 @@ tags:
 - clothing
 - apparel
 - fashion
-image: 
+image: "/uploads/230-indcsn@2x.jpg"
 store-link: https://www.indcsn.com
 credit: Brave The Skies
 credit-link: http://bravetheskies.com
