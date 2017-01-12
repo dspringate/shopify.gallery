@@ -7,7 +7,7 @@ tags:
 - inspiration
 - technology
 - phones
-image: 
+image: "/uploads/229-iphone-surgery@2x.jpg"
 store-link: http://iphone-surgery.co.uk
 credit: The Big Webowski
 credit-link: https://webowski.me
