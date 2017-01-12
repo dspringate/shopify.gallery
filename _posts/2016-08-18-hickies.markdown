@@ -8,7 +8,13 @@ tags:
 - shopify
 - e-commerce
 - design
+- clothing
+- apparel
+- mens
+- womens
 image: "/uploads/124%20-%20hickies@2x.jpg"
 store-link: https://www.hickies.com
+credit: SoftLimit
+credit-link: http://softlimit.com
 ---
 

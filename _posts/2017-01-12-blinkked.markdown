@@ -1,6 +1,6 @@
 ---
 title: Blinkked
-date: 2016-12-28 12:42:00 Z
+date: 2017-01-12 12:42:00 Z
 tags:
 - shopify
 - e-commerce
