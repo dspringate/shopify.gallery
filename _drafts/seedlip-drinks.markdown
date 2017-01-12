@@ -8,7 +8,7 @@ tags:
 - inspiration
 - food
 - drink
-image: 
+image: "/uploads/227-seedlipdrinks@2x.jpg"
 store-link: https://www.seedlipdrinks.com
 credit: Rotate
 credit-link: https://studiorotate.com
