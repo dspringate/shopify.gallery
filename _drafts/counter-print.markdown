@@ -8,7 +8,7 @@ tags:
 - inspiration
 - books
 - graphic
-image: 
+image: "/uploads/231-counter-print@2x.jpg"
 store-link: http://www.counter-print.co.uk
 ---
 
