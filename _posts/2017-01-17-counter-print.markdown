@@ -1,6 +1,6 @@
 ---
 title: Counter-Print
-date: 2017-01-11 17:16:00 Z
+date: 2017-01-17 17:16:00 Z
 tags:
 - shopify
 - e-commerce
