@@ -11,7 +11,7 @@ tags:
 - womens
 - shoes
 - footwear
-image: 
+image: "/uploads/232-aeyde@2x.jpg"
 store-link: https://www.aeyde.com
 ---
 
