@@ -8,7 +8,7 @@ tags:
 - inspiration
 - music
 - band
-image: 
+image: "/uploads/233-thexx@2x.jpg"
 store-link: https://shop.thexx.info
 ---
 
