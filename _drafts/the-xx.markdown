@@ -1,6 +1,6 @@
 ---
 title: The XX
-date: 2017-01-17 13:26:00 Z
+date: 2017-01-23 13:26:00 Z
 tags:
 - shopify
 - e-commerce
