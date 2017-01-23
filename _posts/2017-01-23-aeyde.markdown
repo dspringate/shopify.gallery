@@ -1,6 +1,6 @@
 ---
 title: Aeyde
-date: 2017-01-23 13:28:00 Z
+date: 2017-01-23 17:28:00 Z
 tags:
 - shopify
 - e-commerce
