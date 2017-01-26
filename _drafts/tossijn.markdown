@@ -10,7 +10,7 @@ tags:
 - clothing
 - apparel
 - womens
-image: 
+image: "/uploads/238-tossijn@2x.jpg"
 store-link: https://tossijn.com
 ---
 
