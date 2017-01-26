@@ -10,7 +10,7 @@ tags:
 - fashion
 - apparel
 - womens
-image: 
+image: "/uploads/234-studio-nicholson@2x.jpg"
 store-link: https://www.studionicholson.com
 credit: The Printer's Son
 credit-link: https://www.behance.net/theprintersson
