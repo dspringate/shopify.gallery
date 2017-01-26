@@ -10,7 +10,7 @@ tags:
 - fashion
 - apparel
 - womens
-image: 
+image: "/uploads/239-allknitwear@2x.jpg"
 store-link: http://allknitwear.com
 ---
 
