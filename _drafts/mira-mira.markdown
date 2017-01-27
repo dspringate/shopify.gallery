@@ -7,7 +7,7 @@ tags:
 - design
 - inspiration
 - photography
-image: 
+image: "/uploads/236-mira-mira@2x.jpg"
 store-link: https://shop.miramira.tv
 ---
 

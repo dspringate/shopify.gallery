@@ -12,7 +12,7 @@ tags:
 - womens
 - jeans
 - denim
-image: 
+image: "/uploads/235-goodamerican@2x.jpg"
 store-link: https://www.goodamerican.com
 ---
 

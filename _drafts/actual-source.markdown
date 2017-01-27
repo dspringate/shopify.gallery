@@ -11,7 +11,7 @@ tags:
 - accessories
 - prints
 - publications
-image: 
+image: "/uploads/237-actualsource@2x.jpg"
 store-link: http://actualsource.org
 ---
 
