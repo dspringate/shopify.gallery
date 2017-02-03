@@ -14,6 +14,6 @@ store-link: https://home-coming.com
 credit: Scott Haven
 credit-link: http://scott-haven.com
 credit-2: Arishill
-credit-2-link: https://www.arishill.com
+credit-link-2: https://www.arishill.com
 ---
 
