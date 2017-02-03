@@ -13,7 +13,7 @@ image:
 store-link: https://home-coming.com
 credit: Scott Haven
 credit-link: http://scott-haven.com
-Key: Arishill
-Field name: https://www.arishill.com
+credit-2: Arishill
+credit-2-link: https://www.arishill.com
 ---
 
