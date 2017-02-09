@@ -9,7 +9,7 @@ tags:
 - lifestyle
 - homewares
 - stationery
-image: 
+image: "/uploads/241-home-coming@2x.jpg"
 store-link: https://home-coming.com
 credit: Scott Haven
 credit-link: http://scott-haven.com
