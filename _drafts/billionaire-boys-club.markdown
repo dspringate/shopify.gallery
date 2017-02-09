@@ -11,7 +11,7 @@ tags:
 - apparel
 - mens
 - womens
-image: 
+image: "/uploads/240-bbcicecream@2x.jpg"
 store-link: https://bbcicecream.eu
 ---
 
