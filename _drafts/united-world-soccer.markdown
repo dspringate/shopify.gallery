@@ -10,7 +10,7 @@ tags:
 - football
 - fashion
 - kit
-image: 
+image: "/uploads/242-unitedworldsoccer@2x.jpg"
 store-link: https://www.unitedworldsoccer.com
 ---
 
