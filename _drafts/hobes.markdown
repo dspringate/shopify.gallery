@@ -10,7 +10,7 @@ tags:
 - shoes
 - mens
 - womens
-image: 
+image: "/uploads/244-hobes@2x.jpg"
 store-link: https://hobes.co
 credit: One & Other
 credit-link: http://oneandother.co
