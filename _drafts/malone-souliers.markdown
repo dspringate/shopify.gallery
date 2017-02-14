@@ -10,7 +10,7 @@ tags:
 - apparel
 - shoes
 - womens
-image: 
+image: "/uploads/243-malonesouliers@2x.jpg"
 store-link: https://shop.malonesouliers.com
 credit: Noir Luxe
 credit-link: http://www.noirluxe.co.uk
