@@ -1,5 +1,5 @@
 ---
-title: Abbot NYC
+title: Abbott NYC
 date: 2017-02-23 17:36:00 Z
 tags:
 - shopify
