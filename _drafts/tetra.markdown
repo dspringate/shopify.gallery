@@ -8,7 +8,7 @@ tags:
 - homewares
 - lifestyle
 - furniture
-image: 
+image: "/uploads/246-tetra@2x.jpg"
 store-link: http://www.shop-tetra.com
 ---
 
