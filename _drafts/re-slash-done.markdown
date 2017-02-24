@@ -12,7 +12,7 @@ tags:
 - denim
 - womens
 - mens
-image: 
+image: "/uploads/245-redone@2x.jpg"
 store-link: https://shopredone.com
 ---
 
