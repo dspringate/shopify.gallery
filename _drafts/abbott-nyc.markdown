@@ -9,7 +9,7 @@ tags:
 - perfume
 - aftershave
 - New York
-image: 
+image: "/uploads/248-abbot@2x.jpg"
 store-link: https://abbottnyc.com
 credit: Paradise
 credit-link: http://studioparadise.com
