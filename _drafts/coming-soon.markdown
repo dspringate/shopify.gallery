@@ -8,7 +8,7 @@ tags:
 - homewares
 - furniture
 - New York
-image: 
+image: "/uploads/247-comingsoonnyc@2x.jpg"
 store-link: https://comingsoonnewyork.com
 credit: Human
 credit-link: http://human-nyc.com
