@@ -12,7 +12,7 @@ tags:
 - womens
 - mens
 - NYC
-image: 
+image: "/uploads/250-koiocollective@2x.jpg"
 store-link: http://www.koiocollective.com
 ---
 
