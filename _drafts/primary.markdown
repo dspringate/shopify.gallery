@@ -7,7 +7,7 @@ tags:
 - design
 - homewares
 - bedding
-image: 
+image: "/uploads/249-primarygoods@2x.jpg"
 store-link: https://primarygoods.com
 credit: Need/Want
 credit-link: http://needwant.com
