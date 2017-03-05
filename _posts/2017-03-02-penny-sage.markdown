@@ -9,7 +9,7 @@ tags:
 - clothing
 - apparel
 - womens
-image: 
+image: "/uploads/252-pennysage@2x.jpg"
 store-link: http://www.pennysage.com
 credit: Natasha Mead
 credit-link: http://natashamead.com
