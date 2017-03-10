@@ -12,7 +12,7 @@ tags:
 - shoes
 - women
 - London
-image: 
+image: "/uploads/254-jenniferchamandi@2x.jpg"
 store-link: https://jenniferchamandi.com
 credit: Dash
 credit-link: http://dashcreative.co
