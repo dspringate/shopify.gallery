@@ -9,7 +9,7 @@ tags:
 - condoms
 - healthcare
 - health
-image: 
+image: "/uploads/253-sustainnatural@2x.jpg"
 store-link: https://www.sustainnatural.com
 ---
 
