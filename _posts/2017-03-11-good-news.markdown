@@ -10,7 +10,7 @@ tags:
 - apparel
 - shoes
 - trainers
-image: 
+image: "/uploads/255-goodnews@2x.jpg"
 store-link: https://goodnews.london
 credit: Not
 credit-link: http://not-studio.com
