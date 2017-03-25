@@ -8,7 +8,7 @@ tags:
 - food
 - drink
 - breakfast
-image: 
+image: "/uploads/256-myayem@2x.jpg"
 store-link: https://myayem.co.uk
 credit: Untethered Collective
 credit-link: https://untetheredcollective.com

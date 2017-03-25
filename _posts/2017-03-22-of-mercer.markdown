@@ -10,7 +10,7 @@ tags:
 - apparel
 - womens
 - New York
-image: 
+image: "/uploads/257-mymercer@2x.jpg"
 store-link: https://www.ofmercer.com
 credit: Lemonade NY
 credit-link: http://lemonadeny.com
