@@ -10,7 +10,7 @@ tags:
 - breakfast
 image: "/uploads/256-myayem@2x.jpg"
 store-link: https://myayem.co.uk
-credit: 'Underwaterpistol '
+credit: Underwaterpistol
 credit-link: http://www.underwaterpistol.com
 credit-2: "& Smith"
 credit-link-2: http://andsmithdesign.com
