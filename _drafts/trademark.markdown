@@ -1,5 +1,5 @@
 ---
-title: Trade Mark
+title: Trademark
 date: 2017-03-31 08:34:00 Z
 tags:
 - shopify
