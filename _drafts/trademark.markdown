@@ -14,7 +14,7 @@ tags:
 - handbags
 - shoes
 - jewelry
-image: 
+image: "/uploads/259-trademark@2x.jpg"
 store-link: https://trade-mark.com
 credit: Trademark
 credit-link: blackandblackcreative.com
