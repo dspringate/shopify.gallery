@@ -12,7 +12,7 @@ tags:
 - chinos
 - trousers
 - mens
-image: 
+image: "/uploads/258-spoke@2x.jpg"
 store-link: https://spoke-london.com
 ---
 
