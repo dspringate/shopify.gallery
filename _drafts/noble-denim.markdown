@@ -13,7 +13,7 @@ tags:
 - clothing
 - womens
 - mens
-image: 
+image: "/uploads/259-nobledenim@2x.jpg"
 store-link: https://nobledenim.com
 ---
 
