@@ -16,7 +16,7 @@ tags:
 - jewelry
 image: "/uploads/259-trademark@2x.jpg"
 store-link: https://trade-mark.com
-credit: Trademark
-credit-link: blackandblackcreative.com
+credit: Black & Black
+credit-link: http://www.blackandblackcreative.com
 ---
 
