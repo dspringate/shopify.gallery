@@ -1,6 +1,6 @@
 ---
 title: Trademark
-date: 2017-03-31 08:34:00 Z
+date: 2017-04-06 08:34:00 Z
 tags:
 - shopify
 - e-commerce
