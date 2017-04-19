@@ -1,6 +1,6 @@
 ---
 title: Nomia
-date: 2017-04-19 10:24:00 Z
+date: 2017-04-19 11:24:00 Z
 tags:
 - shopify
 - e-commerce
