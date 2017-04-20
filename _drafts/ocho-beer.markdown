@@ -10,7 +10,7 @@ tags:
 - ale
 - drink
 - craft
-image: 
+image: "/uploads/264-ochobeer@2x.jpg"
 store-link: https://www.ochobeer.com.au
 credit: Giraffic
 credit-link: http://giraffic.co
