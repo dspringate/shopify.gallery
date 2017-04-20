@@ -10,7 +10,7 @@ tags:
 - apparel
 - clothing
 - womens
-image: 
+image: "/uploads/267-laurenmanoogian@2x.jpg"
 store-link: https://laurenmanoogian.com
 credit: Lemonade
 credit-link: http://lemonadeny.com
