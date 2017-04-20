@@ -10,7 +10,7 @@ tags:
 - apparel
 - shoes
 - slides
-image: 
+image: "/uploads/261-slydes@2x.jpg"
 store-link: https://www.slydes.co.uk
 credit: Not
 credit-link: http://www.not-studio.com
