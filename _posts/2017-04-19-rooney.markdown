@@ -10,7 +10,7 @@ tags:
 - apparel
 - mens
 - womens
-image: 
+image: "/uploads/260-rooney@2x.jpg"
 store-link: https://www.rooneyshop.com
 ---
 
