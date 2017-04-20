@@ -8,7 +8,7 @@ tags:
 - food supplements
 - organic
 - skin
-image: 
+image: "/uploads/263-nueco@2x.jpg"
 store-link: https://www.thenueco.com
 ---
 
