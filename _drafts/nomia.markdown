@@ -11,7 +11,7 @@ tags:
 - fashion
 - womens
 - women
-image: 
+image: "/uploads/265-nomia@2x.jpg"
 store-link: https://nomia-nyc.com
 ---
 
