@@ -11,7 +11,7 @@ tags:
 - apparel
 - womens
 - swimwear
-image: 
+image: "/uploads/266-lisamariefernandez@2x.jpg"
 store-link: https://lisamariefernandez.com
 credit: Lemonade
 credit-link: http://lemonadeny.com

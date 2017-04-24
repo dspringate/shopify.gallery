@@ -7,7 +7,7 @@ tags:
 - design
 - inspiration
 - food
-image: 
+image: "/uploads/268-aidaeats@2x.jpg"
 store-link: https://www.aidaeats.com
 credit: XXIX
 credit-link: http://www.xxix.co
