@@ -9,7 +9,7 @@ tags:
 - clothing
 - apparel
 - fashion
-image: 
+image: "/uploads/269-odd@2x.jpg"
 store-link: https://www.thisisodd.nyc
 credit: Half Helix
 credit-link: http://www.halfhelix.com
