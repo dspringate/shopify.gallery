@@ -14,6 +14,6 @@ store-link: https://www.thisisodd.nyc
 credit: Half Helix
 credit-link: http://www.halfhelix.com
 credit-2: Diogo Dantas
-credit-2-link: http://www.diogodantas.com
+credit-link-2: http://www.diogodantas.com
 ---
 
