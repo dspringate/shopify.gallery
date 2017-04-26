@@ -10,7 +10,7 @@ tags:
 - womens
 - apparel
 - fashion
-image: 
+image: "/uploads/271-aveclesfilles@2x.jpg"
 store-link: https://aveclesfilles.com
 credit: Mote
 credit-link: http://mote.agency
