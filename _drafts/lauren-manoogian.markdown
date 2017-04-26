@@ -1,6 +1,6 @@
 ---
 title: Lauren Manoogian
-date: 2017-04-19 10:36:00 Z
+date: 2017-04-21 10:36:00 Z
 tags:
 - shopify
 - e-commerce
