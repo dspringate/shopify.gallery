@@ -9,7 +9,7 @@ tags:
 - jewellery
 - jewelry
 - womens
-image: 
+image: "/uploads/272-brokenenglishjewelry@2x.jpg"
 store-link: https://brokenenglishjewelry.com
 credit: Mote
 credit-link: http://mote.agency

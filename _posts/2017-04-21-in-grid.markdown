@@ -11,7 +11,7 @@ tags:
 - apparel
 - womens
 - shirts
-image: 
+image: "/uploads/270-grid@2x.jpg"
 store-link: https://in-grid.co
 credit: Each
 credit-link: http://eachlondon.com
