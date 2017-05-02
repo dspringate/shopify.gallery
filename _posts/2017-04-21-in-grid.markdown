@@ -1,5 +1,5 @@
 ---
-title: In Grid
+title: In-grid
 date: 2017-04-21 08:06:00 Z
 tags:
 - shopify
