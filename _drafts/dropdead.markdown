@@ -11,7 +11,7 @@ tags:
 - apparel
 - womens
 - mens
-image: 
+image: "/uploads/275-dropdead@2x.jpg"
 store-link: https://www.dropdead.co
 ---
 
