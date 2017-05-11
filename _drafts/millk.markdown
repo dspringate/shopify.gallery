@@ -11,7 +11,7 @@ tags:
 - fashion
 - children
 - baby
-image: 
+image: "/uploads/273-millk@2x.jpg"
 store-link: https://millk.co
 credit: Studieau
 credit-link: http://studieau.co
