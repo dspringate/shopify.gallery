@@ -9,7 +9,7 @@ tags:
 - beauty
 - cosmetics
 - womens
-image: 
+image: "/uploads/276-carbonbeauty@2x.jpg"
 store-link: https://www.carbonbeauty.com
 credit: Locomotive
 credit-link: https://locomotive.ca/en
