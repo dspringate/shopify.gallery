@@ -10,7 +10,7 @@ tags:
 - body
 - makeup
 - women
-image: 
+image: "/uploads/277-borghese@2x.jpg"
 store-link: https://borghese.com
 ---
 

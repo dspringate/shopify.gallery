@@ -12,7 +12,7 @@ tags:
 - swimwear
 - womens
 - bikini
-image: 
+image: "/uploads/274-fella@2x.jpg"
 store-link: 'https://www.fellaswim.com '
 credit: Viner
 credit-link: http://www.viner.com.au
