@@ -10,7 +10,7 @@ tags:
 - apparel
 - fashion
 - womens
-image: 
+image: "/uploads/281-staud-clothing@2x.jpg"
 store-link: https://staud.clothing
 credit: Black & Black Creative
 credit-link: http://www.blackandblackcreative.com
