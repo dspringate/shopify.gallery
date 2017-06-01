@@ -10,7 +10,7 @@ tags:
 - clothing
 - apparel
 - womens
-image: 
+image: "/uploads/278-wolcott-takemoto@2x.jpg"
 store-link: https://www.wolcott-takemoto.com
 credit: Half Helix
 credit-link: http://www.halfhelix.com

@@ -10,7 +10,7 @@ tags:
 - shoes
 - mens
 - womens
-image: 
+image: "/uploads/282-skyefootwear@2x.jpg"
 store-link: https://skyefootwear.com
 ---
 

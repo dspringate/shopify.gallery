@@ -10,7 +10,7 @@ tags:
 - bags
 - wallets
 - tech cases
-image: 
+image: "/uploads/280-carlfriedrik@2x.jpg"
 store-link: https://www.carlfriedrik.com
 ---
 

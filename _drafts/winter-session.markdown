@@ -12,7 +12,7 @@ tags:
 - wallets
 - organisers
 - leather goods
-image: 
+image: "/uploads/279-winter-session@2x.jpg"
 store-link: https://www.winter-session.com
 ---
 
