@@ -10,7 +10,7 @@ tags:
 - shoes
 - trainers
 - sneakers
-image: 
+image: "/uploads/286-crepslocker@2x.jpg"
 store-link: https://www.crepslocker.com
 credit: By Association Only
 credit-link: www.bao.agency
