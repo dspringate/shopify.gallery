@@ -9,7 +9,7 @@ tags:
 - fashion
 - apparel
 - womens
-image: 
+image: "/uploads/285-reservoir@2x.jpg"
 store-link: https://reservoir-la.com
 credit: Black & Black
 credit-link: http://www.blackandblackcreative.com
