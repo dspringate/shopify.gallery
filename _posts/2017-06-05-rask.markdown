@@ -9,7 +9,7 @@ tags:
 - fashion
 - apparel
 - womens
-image: 
+image: "/uploads/283-rasknyc@2x.jpg"
 store-link: https://shop.rasknyc.com
 credit: Studio 24/24
 credit-link: http://studio24-24.com

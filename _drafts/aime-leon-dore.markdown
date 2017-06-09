@@ -8,7 +8,7 @@ tags:
 - clothing
 - fashion
 - apparel
-image: 
+image: "/uploads/284-aimeleondore@2x.jpg"
 store-link: https://shop.aimeleondore.com/collections/tops
 ---
 
