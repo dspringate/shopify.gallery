@@ -11,7 +11,7 @@ tags:
 - womens
 image: "/uploads/285-reservoir@2x.jpg"
 store-link: https://reservoir-la.com
-credit: Black & Black
+credit: Black & Black Creative
 credit-link: http://www.blackandblackcreative.com
 ---
 
