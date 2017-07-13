@@ -9,6 +9,7 @@ tags:
 - cosmetics
 - hair
 - womens
+- haircare
 image: 
 store-link: https://livso.com
 ---
