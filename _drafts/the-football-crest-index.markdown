@@ -8,8 +8,8 @@ tags:
 - development
 - football
 - clubs
-- crests
 - history
+- crest
 image: 
 store-link: https://thefootballcrestindex.com
 credit: Hatch
