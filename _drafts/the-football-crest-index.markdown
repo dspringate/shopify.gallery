@@ -15,6 +15,6 @@ store-link: https://thefootballcrestindex.com
 credit: Hatch
 credit-link: http://www.hatchinc.co
 credit-2: James Kirkup
-credit-link-2: http://james-kirkup.com
+credit-2-link: http://james-kirkup.com
 ---
 
