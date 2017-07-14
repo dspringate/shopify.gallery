@@ -9,7 +9,7 @@ tags:
 - lingerie
 - underwear
 - womens
-image: 
+image: "/uploads/288-opaak@2x.jpg"
 store-link: https://www.opaak.de
 ---
 
