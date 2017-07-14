@@ -10,7 +10,7 @@ tags:
 - hair
 - womens
 - haircare
-image: 
+image: "/uploads/291-livso@2x.jpg"
 store-link: https://livso.com
 ---
 
