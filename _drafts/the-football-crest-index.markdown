@@ -10,7 +10,7 @@ tags:
 - clubs
 - history
 - crest
-image: 
+image: "/uploads/287-footballcrestindex@2x.jpg"
 store-link: https://thefootballcrestindex.com
 credit: Hatch
 credit-link: http://www.hatchinc.co

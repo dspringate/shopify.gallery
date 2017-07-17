@@ -8,7 +8,7 @@ tags:
 - development
 - drink
 - coffee
-image: 
+image: "/uploads/290-loyalcoffee@2x.jpg"
 store-link: https://loyalcoffee.co
 ---
 

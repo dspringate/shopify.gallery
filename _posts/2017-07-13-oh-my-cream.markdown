@@ -9,7 +9,7 @@ tags:
 - cosmetics
 - beauty
 - makeup
-image: 
+image: "/uploads/289-ohmycream@2x.jpg"
 store-link: https://www.ohmycream.com
 credit: Maestrooo
 credit-link: https://maestrooo.com
