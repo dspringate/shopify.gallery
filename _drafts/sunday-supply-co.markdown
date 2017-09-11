@@ -8,7 +8,7 @@ tags:
 - development
 - umbrella
 - beach
-image: 
+image: "/uploads/291-sundaysupply@2x.jpg"
 store-link: https://sundaysupply.co
 ---
 

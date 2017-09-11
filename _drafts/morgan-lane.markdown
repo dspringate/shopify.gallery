@@ -12,7 +12,7 @@ tags:
 - clothing
 - swimwear
 - bridal
-image: 
+image: "/uploads/294-morgan-lane@2x.jpg"
 store-link: https://www.morgan-lane.com
 ---
 

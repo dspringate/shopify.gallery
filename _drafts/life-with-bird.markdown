@@ -11,7 +11,7 @@ tags:
 - clothing
 - apparel
 - womens
-image: 
+image: "/uploads/295-lifewithbird@2x.jpg"
 store-link: https://lifewithbird.com
 credit: The Working Party
 credit-link: https://theworkingparty.com.au

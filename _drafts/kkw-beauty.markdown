@@ -9,7 +9,7 @@ tags:
 - cosmetics
 - beauty
 - kardashian
-image: 
+image: "/uploads/296-kkwbeauty@2x.jpg"
 store-link: https://kkwbeauty.com
 credit: Lane Goldberg
 credit-link: http://www.builtbylane.com

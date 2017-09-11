@@ -11,7 +11,7 @@ tags:
 - cosmetics
 - hand
 - body
-image: 
+image: "/uploads/297-bastide@2x.jpg"
 store-link: https://bastide.com
 credit: Barrel NY
 credit-link: https://www.barrelny.com

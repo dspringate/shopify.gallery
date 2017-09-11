@@ -9,7 +9,7 @@ tags:
 - drink
 - alcohol
 - cider
-image: 
+image: "/uploads/298-austineastciders@2x.jpg"
 store-link: https://austineastciders.com
 credit: Barrel NY
 credit-link: https://www.barrelny.com
