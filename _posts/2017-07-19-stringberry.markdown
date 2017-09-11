@@ -9,7 +9,7 @@ tags:
 - inspiration
 - phone cases
 - iphone
-image: 
+image: "/uploads/293-stringberry@2x.jpg"
 store-link: https://stringberry.com
 ---
 
