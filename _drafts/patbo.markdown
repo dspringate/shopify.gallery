@@ -11,5 +11,7 @@ tags:
 - clothing
 image: "/uploads/306-patbo@2x.jpg"
 store-link: https://patbo.com
+credit: Black & Black Creative
+credit-link: http://www.blackandblackcreative.com
 ---
 
