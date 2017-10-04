@@ -1,6 +1,6 @@
 ---
 title: Cienne NY
-date: 2016-08-17 13:19:00 Z
+date: 2017-10-04 10:03:00 Z
 tags:
 - fashion
 - clothing
@@ -9,7 +9,7 @@ tags:
 - shopify
 - e-commerce
 - design
-image: "/uploads/19%20-%20cienneNY@2x.jpg"
+image: 
 store-link: http://ciennenewyork.com
 ---
 
