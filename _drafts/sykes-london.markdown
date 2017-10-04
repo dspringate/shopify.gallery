@@ -1,5 +1,5 @@
 ---
-title: Sykes London
+title: Sykes
 date: 2017-10-04 08:53:00 Z
 tags:
 - shopify
