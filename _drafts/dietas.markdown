@@ -11,7 +11,7 @@ tags:
 - fashion
 - apparel
 - clothing
-image: 
+image: "/uploads/315-deitas@2x.jpg"
 store-link: https://deitas.com
 credit: Panagora
 credit-link: http://www.panagora.se
