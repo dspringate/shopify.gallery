@@ -9,7 +9,7 @@ tags:
 - shopify
 - e-commerce
 - design
-image: 
+image: "/uploads/316-ciennenewyork@2x.jpg"
 store-link: http://ciennenewyork.com
 ---
 
