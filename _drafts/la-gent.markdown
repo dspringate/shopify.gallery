@@ -9,7 +9,7 @@ tags:
 - homewares
 - accessories
 - goods
-image: 
+image: "/uploads/313-la-gent@2x.jpg"
 store-link: https://www.la-gent.com
 credit: Everything In Between
 credit-link: http://e-i-b.com
