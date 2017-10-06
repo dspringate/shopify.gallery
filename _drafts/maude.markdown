@@ -8,7 +8,7 @@ tags:
 - development
 - sex
 - essentials
-image: 
+image: "/uploads/314-getmaude@2x.jpg"
 store-link: https://getmaude.com
 ---
 
