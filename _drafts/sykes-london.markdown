@@ -11,7 +11,7 @@ tags:
 - womens
 - fashion
 - apparel
-image: 
+image: "/uploads/312-sykeslondon@2x.jpg"
 store-link: https://sykeslondon.com
 credit: Not
 credit-link: http://www.not-studio.com
