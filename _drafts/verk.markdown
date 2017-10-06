@@ -11,7 +11,7 @@ tags:
 - fashion
 - apparel
 - clothing
-image: 
+image: "/uploads/311-verkstore@2x.jpg"
 store-link: https://verkstore.com
 ---
 
