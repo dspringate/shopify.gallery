@@ -10,7 +10,7 @@ tags:
 - jewellery
 - jewelry
 - ceramics
-image: 
+image: "/uploads/318-anneringstrand@2x.jpg"
 store-link: https://annringstrand.com
 credit: Panagora
 credit-link: http://www.panagora.se
