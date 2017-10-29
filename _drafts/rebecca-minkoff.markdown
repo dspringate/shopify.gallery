@@ -11,7 +11,7 @@ tags:
 - fashion
 - apparel
 - womens
-image: 
+image: "/uploads/324-rebeccaminkoff@2x.jpg"
 store-link: https://www.rebeccaminkoff.com
 credit: BVAccel
 credit-link: https://www.bvaccel.com
