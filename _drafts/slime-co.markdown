@@ -10,7 +10,7 @@ tags:
 - clothing
 - fashion
 - apparel
-image: 
+image: "/uploads/323-shopslime@2x.jpg"
 store-link: https://shopslime.co
 ---
 
