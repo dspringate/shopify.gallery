@@ -11,7 +11,7 @@ tags:
 - fashion
 - apparel
 - mens
-image: 
+image: "/uploads/326-marcwenn@2x.jpg"
 store-link: https://www.marcwenn.co.uk
 ---
 

@@ -10,7 +10,7 @@ tags:
 - homewares
 - accessories
 - objects
-image: 
+image: "/uploads/321-supergoodthing@2x.jpg"
 store-link: https://supergoodthing.com
 ---
 

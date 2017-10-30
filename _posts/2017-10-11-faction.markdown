@@ -11,7 +11,7 @@ tags:
 - snowboarding
 - snowboard
 - outdoors
-image: 
+image: "/uploads/320-factionskis@2x.jpg"
 store-link: https://uk.factionskis.com
 credit: Ryan Foster Design
 credit-link: http://www.ryanfosterdesign.com

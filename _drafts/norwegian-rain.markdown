@@ -10,7 +10,7 @@ tags:
 - clothing
 - apparel
 - fashion
-image: 
+image: "/uploads/329-norwegainrain@2x.jpg"
 store-link: https://norwegianrain.com
 ---
 

@@ -9,7 +9,7 @@ tags:
 - inspiration
 - objects
 - book
-image: 
+image: "/uploads/322-store-qz@2x.jpg"
 store-link: https://store.qz.com
 ---
 

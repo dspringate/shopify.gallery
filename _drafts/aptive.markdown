@@ -11,7 +11,7 @@ tags:
 - apparel
 - fashion
 - accessories
-image: 
+image: "/uploads/328-aptivestore@2x.jpg"
 store-link: https://aptivestore.com
 ---
 

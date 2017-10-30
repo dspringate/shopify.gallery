@@ -10,7 +10,7 @@ tags:
 - fashion
 - clothing
 - apparel
-image: 
+image: "/uploads/327-irinyc@2x.jpg"
 store-link: https://irinyc.com
 ---
 

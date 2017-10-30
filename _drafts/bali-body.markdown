@@ -9,7 +9,7 @@ tags:
 - inspiration
 - cosmetics
 - beauty
-image: 
+image: "/uploads/330-balibodyco@2x.jpg"
 store-link: https://uk.balibodyco.com
 ---
 
