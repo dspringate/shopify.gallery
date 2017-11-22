@@ -1,6 +1,6 @@
 ---
 title: Celcius 54
-date: 2017-10-22 13:20:00 Z
+date: 2017-10-22 13:25:00 Z
 tags:
 - shopify
 - e-commerce
