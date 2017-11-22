@@ -7,7 +7,7 @@ tags:
 - design
 - development
 - inspiration
-image: "/uploads/319-54celsius@2x.jpg"
+image: "/uploads/319-54celsius@2x-a1e6f4.jpg"
 store-link: https://us.54celsius.com
 ---
 
