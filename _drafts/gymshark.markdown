@@ -14,7 +14,7 @@ tags:
 - fitness
 - women
 - mens
-image: 
+image: "/uploads/333-gymshark@2x.jpg"
 store-link: https://www.gymshark.com
 credit: Ryan Foster Design
 credit-link: http://ryanfosterdesign.com
