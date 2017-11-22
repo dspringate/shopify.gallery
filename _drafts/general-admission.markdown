@@ -10,7 +10,7 @@ tags:
 - clothing
 - fashion
 - apparel
-image: 
+image: "/uploads/332-generaladmission@2x.jpg"
 store-link: https://generaladmission.us
 credit: Use All Five
 credit-link: https://useallfive.com
