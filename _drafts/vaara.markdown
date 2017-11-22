@@ -12,7 +12,7 @@ tags:
 - clothing
 - fashion
 - womens
-image: 
+image: "/uploads/331-vaara@2x.jpg"
 store-link: https://www.vaara.com
 ---
 
