@@ -10,7 +10,7 @@ tags:
 - jewellery
 - jewelry
 - womens
-image: 
+image: "/uploads/339-vraiandoro@2x.jpg"
 store-link: https://vraiandoro.com
 ---
 
