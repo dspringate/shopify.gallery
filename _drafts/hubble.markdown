@@ -11,7 +11,7 @@ tags:
 - vision
 - healthcare
 - health
-image: 
+image: "/uploads/335-hubblecontacts@2x.jpg"
 store-link: https://www.hubblecontacts.com
 ---
 
