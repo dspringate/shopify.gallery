@@ -9,7 +9,7 @@ tags:
 - inspiration
 - hair extensions
 - haircare
-image: 
+image: "/uploads/336-tharen@2x.jpg"
 store-link: https://www.tharen.com
 credit: BVAccel
 credit-link: https://www.bvaccel.com
