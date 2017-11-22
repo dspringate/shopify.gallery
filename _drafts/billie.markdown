@@ -10,7 +10,7 @@ tags:
 - womens
 - cosmetics
 - razors
-image: 
+image: "/uploads/338-mybillie@2x.jpg"
 store-link: http://mybillie.com
 ---
 
