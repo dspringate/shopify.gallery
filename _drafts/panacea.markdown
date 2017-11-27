@@ -9,7 +9,7 @@ tags:
 - inspiration
 - skincare
 - beauty
-image: 
+image: "/uploads/334-thepanacea@2x.jpg"
 store-link: https://www.thepanacea.com
 credit: Studio Institute
 credit-link: http://studio.institute

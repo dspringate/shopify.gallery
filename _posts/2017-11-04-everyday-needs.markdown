@@ -13,7 +13,7 @@ tags:
 - apparel
 - baby
 - children
-image: 
+image: "/uploads/337-everyday-needs@2x.jpg"
 store-link: https://www.everyday-needs.com
 ---
 
