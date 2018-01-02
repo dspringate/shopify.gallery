@@ -12,7 +12,7 @@ image:
 store-link: https://coloursmayvary.com
 credit: Build
 credit-link: http://studio.build
-credit-two: Hungry Sandwich Club
-credit-link-two: http://www.hungrysandwich.club
+credit-2: Hungry Sandwich Club
+credit-2-link: http://www.hungrysandwich.club
 ---
 
