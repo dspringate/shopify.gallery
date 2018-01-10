@@ -11,7 +11,7 @@ tags:
 - fashion
 - apparel
 - clothing
-image: 
+image: "/uploads/341-stinegoya@2x.jpg"
 store-link: https://stinegoya.com
 ---
 
