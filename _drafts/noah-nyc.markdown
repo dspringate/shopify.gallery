@@ -11,7 +11,7 @@ tags:
 - fashion
 - apparel
 - accessories
-image: 
+image: "/uploads/342-noahny@2x.jpg"
 store-link: https://noahny.com
 credit: Bismuth
 credit-link: https://bismuth.studio
