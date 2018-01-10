@@ -9,7 +9,7 @@ tags:
 - living
 - lifestyle
 - furniture
-image: 
+image: "/uploads/351-campaignliving@2x.jpg"
 store-link: https://www.campaignliving.com
 ---
 
