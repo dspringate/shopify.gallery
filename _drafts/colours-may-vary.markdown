@@ -8,7 +8,7 @@ tags:
 - e-commerce
 - graphic design
 - books
-image: 
+image: "/uploads/348-coloursmayvary@2x.jpg"
 store-link: https://coloursmayvary.com
 credit: Build
 credit-link: http://studio.build
