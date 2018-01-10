@@ -12,7 +12,7 @@ tags:
 - apparel
 - mens
 - accessories
-image: 
+image: "/uploads/349-clarkstreetmercantile@2x.jpg"
 store-link: https://clarkstreetmercantile.com
 ---
 
