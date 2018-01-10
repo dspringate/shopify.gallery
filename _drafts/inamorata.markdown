@@ -12,7 +12,7 @@ tags:
 - clothing
 - swimwear
 - bikini
-image: 
+image: "/uploads/350-inamorataswim@2x.jpg"
 store-link: https://inamorataswim.com
 ---
 
