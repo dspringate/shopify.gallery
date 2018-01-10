@@ -13,7 +13,7 @@ tags:
 - jewelry
 - apparel
 - clothing
-image: 
+image: "/uploads/353-auratenewyork@2x.jpg"
 store-link: https://auratenewyork.com
 credit: Lille Hummer
 credit-link: http://www.lillehummer.nl
