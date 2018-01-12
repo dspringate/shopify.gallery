@@ -14,7 +14,7 @@ tags:
 - handbags
 - womens
 - bags
-image: 
+image: "/uploads/340-Collage@2x.jpg"
 store-link: https://www.collagetheshop.com
 credit: Double Projects
 credit-link: https://doubleprojects.com

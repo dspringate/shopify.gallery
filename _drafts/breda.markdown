@@ -11,7 +11,7 @@ tags:
 - mens
 - fashion
 - accessories
-image: 
+image: "/uploads/352-bredawatch@2x.jpg"
 store-link: https://www.bredawatch.com
 ---
 

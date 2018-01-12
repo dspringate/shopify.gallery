@@ -12,7 +12,7 @@ tags:
 - clothing
 - fashion
 - apparel
-image: 
+image: "/uploads/346-madsnorgaard@2x.jpg"
 store-link: https://www.madsnorgaard.dk
 credit: Double Projects
 credit-link: https://doubleprojects.com

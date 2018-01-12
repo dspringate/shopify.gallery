@@ -11,7 +11,7 @@ tags:
 - apparel
 - womens
 - inspiration
-image: 
+image: "/uploads/347-hangerinc@2x.jpg"
 store-link: https://www.hangerinc.co.uk
 credit: DVTK
 credit-link: www.dvtk.us

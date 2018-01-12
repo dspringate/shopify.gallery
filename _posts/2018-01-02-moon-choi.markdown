@@ -10,7 +10,7 @@ tags:
 - fashion
 - apparel
 - womens
-image: 
+image: "/uploads/343-moonchoistudio@2x.jpg"
 store-link: https://moonchoistudio.com
 ---
 

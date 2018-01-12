@@ -9,7 +9,7 @@ tags:
 - cosmetics
 - womens
 - women
-image: 
+image: "/uploads/345-meltingpoutmetallics@2x.jpg"
 store-link: https://www.meltingpoutmetallics.com
 ---
 

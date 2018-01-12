@@ -13,7 +13,7 @@ tags:
 - accessories
 - handbags
 - womens
-image: 
+image: "/uploads/344-michaelnelson@2x.jpg"
 store-link: https://michaelnelson.co.ke
 credit: Gross Development
 credit-link: https://grossdevelopment.net
