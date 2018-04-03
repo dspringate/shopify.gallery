@@ -7,8 +7,9 @@ tags:
 - development
 - e-commerce
 - inspiration
-- jewellery
-- accessories
+- fashion
+- apparel
+- clothing
 - womens
 image: 
 site-link: https://cutbykira.com
