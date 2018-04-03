@@ -1,5 +1,5 @@
 ---
-title: Smalls For Smalls
+title: Smalls
 date: 2018-04-03 15:15:00 Z
 tags:
 - shopify
