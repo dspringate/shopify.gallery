@@ -1,5 +1,5 @@
 ---
-title: Shop Skin
+title: ShopSkin
 date: 2018-04-03 15:04:00 Z
 tags:
 - shopify
